@@ -17,3 +17,8 @@ Copy .html path and add after
 ```python
 http://localhost:3336/TH/personal/CreditCard/Pages/onesiam.html
 ```
+
+### Demo Site 
+```bash
+http://demo.icweb.co.th/kbank-retrainer/TH/personal/CreditCard/Pages/onesiam.html
+```
