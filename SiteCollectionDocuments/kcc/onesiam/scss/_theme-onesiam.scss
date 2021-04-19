@@ -13,10 +13,9 @@ main.loading {
 }
 .theme-onesiam {
 	.sc-product-detail {
-		background: #FF7E45;
-		background: -moz-linear-gradient(left, #FF7E45 0%, #F08223 50%, #FF7E45 100%);
-		background: -webkit-linear-gradient(left, #FF7E45 0%, #F08223 50%, #FF7E45 100%);
-		background: linear-gradient(to right, #FF7E45 0%, #F08223 50%, #FF7E45 100%);
+		background: $blue-900;
+		background: rgb(34,66,87);
+    background: linear-gradient(180deg, rgba(34,66,87,1) 0%, rgba(1,41,66,1) 100%);
 		padding-top: 150px;
 	}
 	#related-card {
@@ -36,8 +35,8 @@ main.loading {
 	}
 	a.link.more {
 		&:after {
-			content: "\e905";
-			font-family: icongarage;
+			content: "\e901";
+			font-family: iconkcc;
 			font-size: 9px;
 			display: inline-block;
 			margin-left: 7px;
@@ -45,8 +44,8 @@ main.loading {
 	}
 	a.link.external {
 		&:after {
-			content: "\e90a";
-			font-family: icongarage;
+			content: "\e901";
+			font-family: iconkcc;
 			font-size: 0.8em;
 			display: inline-block;
 			margin-left: 7px;

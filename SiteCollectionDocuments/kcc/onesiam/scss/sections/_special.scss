@@ -18,11 +18,12 @@
 				margin: 0 10px;
 				.caption {
 					padding: 30px;
-					background: url(../img/carousel/bg.png);
-					background-repeat: no-repeat;
-					background-size: 100% 100%;
-					background-position: center;
-					p {
+					background-color: $blue-800;
+					.title {
+						color: white;
+					}						
+					.excerpt {
+						color: white;
 						overflow-wrap: break-word;
 						margin-top: 10px;
 					}
@@ -35,7 +36,12 @@
 				}
 			}
 		}
-	}
+
+		.cardTab {
+			max-width: 350px;
+			margin-bottom: 20px;
+		}
+	}	
 }
 @media screen and (max-width: 991px) {
 	.theme-onesiam {

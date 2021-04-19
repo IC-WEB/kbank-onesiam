@@ -56,7 +56,7 @@ function css() {
 }
 
 function scss() {
-  const source = baseDir + "/scss/*.scss";
+  const source = baseDir + '/scss/**/*.scss';
   
   return src(source)
     .pipe(sourcemaps.init())
