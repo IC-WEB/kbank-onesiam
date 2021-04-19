@@ -62,7 +62,7 @@ function scss() {
     .pipe(sourcemaps.init())
     .pipe(sass.sync({ outputStyle: 'compressed' }).on('error', sass.logError))
     .pipe(postcss())
-    .pipe(concat('theme-onesiam.min.min.css'))
+    .pipe(concat('theme-onesiam.min.css'))
     .pipe(sourcemaps.write('.'))
     .pipe(dest(distDir + '/dist/'))
     .pipe(browserSync.stream());

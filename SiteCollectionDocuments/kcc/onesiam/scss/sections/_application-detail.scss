@@ -1,0 +1,245 @@
+.theme-onesiam {
+	.sc-application-detail {
+		background: white;
+		.sc-container {
+			position: relative;
+		}
+		.sc-heading {
+			margin-bottom: 40px;
+			h2 {
+				line-height: 43px;
+			}
+		}
+		.row {
+			padding: 50px;
+			margin: 0;
+			background: #FAFAFA;
+			border-style: solid;
+			border-width: 3px 1px 1px 1px;
+			border-color: #00A950 #EEEEEE #EEEEEE #EEEEEE;
+			border-radius: 0 0 10px 10px;
+			&:first-child {
+				margin-bottom: 20px;
+			}
+			.col {
+				padding: 0;
+				+ {
+					.col {
+						padding-left: 30px;
+					}
+				}
+			}
+		}
+		.tab-content-rv {
+			ul {
+				li {
+					font-family: Helvetica, Arial, sans-serif;
+					list-style: disc;
+					margin-left: 17px;
+					&:not(:last-child) {
+						margin-bottom: 10px;
+					}
+				}
+				margin-bottom: 10px;
+			}
+			h4 {
+				margin-bottom: 10px;
+			}
+			display: block;
+			position: relative;
+			opacity: 0;
+			height: 0;
+			overflow: hidden;
+			visibility: hidden;
+			-webkit-transition: .3s ease-in-out;
+			-o-transition: .3s ease-in-out;
+			transition: .3s ease-in-out;
+			-webkit-transition-property: opacity, visibility;
+			-o-transition-property: opacity, visibility;
+			transition-property: opacity, visibility;
+		}
+		.sc-headline {
+			margin-bottom: 20px;
+		}
+		.tab-responsive-close-rv {
+			display: none;
+		}
+		.tab-heading-rv {
+			display: none;
+		}
+		.tab-rv {
+			position: absolute;
+			top: 0;
+			right: 15px;
+			border: solid 1px #EEEEEE;
+			border-radius: 25px;
+			background: white;
+			a {
+				display: inline-block;
+				margin: 0;
+				font-size: 14px;
+				padding: 10px 20px;
+				border-radius: 25px;
+				&:hover {
+					cursor: pointer;
+				}
+			}
+			a.active {
+				color: white;
+				background: #465968;
+				background: -moz-linear-gradient(45deg, #465968 0%, #232D34 100%);
+				background: -webkit-linear-gradient(45deg, #465968 0%, #232D34 100%);
+				background: linear-gradient(45deg, #465968 0%, #232D34 100%);
+			}
+		}
+		.tab-content-rv.active {
+			opacity: 1;
+			height: auto;
+			overflow: visible;
+			visibility: visible;
+		}
+		ul.tab-responsive-rv {
+			position: relative;
+			li {
+				padding: 20px 0;
+				display: flex;
+				flex-direction: row;
+				align-items: center;
+				&:not(:last-child) {
+					border-bottom: solid 1px #D5D5D5;
+				}
+				&:hover {
+					cursor: pointer;
+				}
+				&:after {
+					content: "\e901";
+					font-family: iconkcc;
+					font-size: 14px;
+					font-weight: normal;
+					color: #00C24E;
+					position: absolute;
+					right: 0;
+				}
+			}
+		}
+		.tab-rv.compn {
+			min-width: auto;
+		}
+		.compn-overflow {
+			.compn-overflow-scroll-wrapper {
+				display: none;
+			}
+		}
+	}
+}
+@media screen and (max-width: 1023px) {
+	.theme-onesiam {
+		.sc-application-detail {
+			background: #F9F9F9;
+			.sc-heading {
+				margin-bottom: 10px;
+			}
+			.tab-scroll-rv {
+				width: 100%;
+				max-width: 100%;
+				overflow-x: auto;
+				overflow-y: auto;
+			}
+			.tab-rv {
+				position: relative;
+				margin: auto;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				.control {
+					margin: auto;
+				}
+			}
+			.tab-rv.compn {
+				min-width: 675px;
+				max-width: 675px;
+			}
+			.compn-overflow {
+				margin: 30px 0;
+				.compn-overflow-scroll-wrapper {
+					margin-top: 10px;
+					margin-bottom: 0;
+					background: #BFC5CD;
+					display: block;
+					.compn-overflow-scroll {
+						background: #475968;
+					}
+				}
+			}
+			.tab-content-rv {
+				.row {
+					background: none;
+					border: none;
+					box-shadow: none;
+					padding: 0;
+				}
+			}
+			.row {
+				.col {
+					+ {
+						.col {
+							padding-left: 0;
+						}
+					}
+				}
+			}
+			.tab-responsive-scroll-rv {
+				position: fixed;
+				width: 100%;
+				height: 100%;
+				background: #F9F9F9;
+				z-index: 1002;
+				top: 0;
+				left: 100%;
+				overflow: hidden;
+				transition: all 300ms;
+			}
+			.tab-responsive-scroll-rv.active {
+				left: 0;
+			}
+			.tab-container-rv {
+				height: 100%;
+				padding-top: 70px;
+				padding-bottom: 120px;
+				max-width: 100%;
+				width: 1170px;
+				padding-left: 15px;
+				padding-right: 15px;
+				overflow: auto;
+			}
+			h4.tab-heading-rv {
+				font-size: 30px;
+				margin-bottom: 20px;
+			}
+			.tab-responsive-close-wrapper-rv {
+				position: fixed;
+				z-index: 1003;
+				width: 100%;
+				padding: 15px;
+				background: inherit;
+			}
+			a.tab-responsive-close-rv {
+				position: relative;
+				font-size: 22px;
+				.ic {
+					line-height: 1.5;
+					vertical-align: top;
+					color: #00C24E;
+				}
+			}
+		}
+	}
+	.entry-content {
+		li {
+			&:last-child {
+				margin-bottom: 10px;
+			}
+		}
+	}
+}

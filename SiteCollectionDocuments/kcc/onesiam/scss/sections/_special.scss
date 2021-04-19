@@ -1,0 +1,81 @@
+.theme-onesiam {
+	.sc-special {
+		.cards {
+			margin-left: -10px;
+			margin-right: -10px;
+			padding-bottom: 40px;
+			margin-bottom: 0;
+			.slick-list {
+				overflow-x: hidden;
+				overflow-y: hidden;
+				padding-right: 0;
+			}
+			.card {
+				border-radius: 10px;
+				overflow-x: hidden;
+				overflow-y: hidden;
+				width: 100%;
+				margin: 0 10px;
+				.caption {
+					padding: 30px;
+					background: url(../img/carousel/bg.png);
+					background-repeat: no-repeat;
+					background-size: 100% 100%;
+					background-position: center;
+					p {
+						overflow-wrap: break-word;
+						margin-top: 10px;
+					}
+					.action {
+						margin-top: 10px;
+						a {
+							display: block;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+@media screen and (max-width: 991px) {
+	.theme-onesiam {
+		.sc-special {
+			.cards {
+				.slick-list {
+					overflow-x: visible;
+					overflow-y: visible;
+				}
+				.slick-arrow {
+					top: 180px;
+				}
+			}
+		}
+	}
+}
+@media screen and (max-width: 767px) {
+	.theme-onesiam {
+		.sc-special {
+			.cards {
+				.slick-list {
+					overflow-x: visible;
+					overflow-y: visible;
+					padding-right: 50px !important;
+				}
+				.slick-arrow {
+					top: 200px;
+				}
+			}
+		}
+	}
+}
+@media screen and (max-width: 400px) {
+	.theme-onesiam {
+		.sc-special {
+			.cards {
+				.slick-arrow {
+					top: 175px;
+				}
+			}
+		}
+	}
+}

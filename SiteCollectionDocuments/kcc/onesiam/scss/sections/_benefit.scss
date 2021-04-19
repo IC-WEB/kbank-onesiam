@@ -1,0 +1,153 @@
+.theme-onesiam {
+	.sc-benefits {
+		.sc-heading {
+			margin-bottom: 70px;
+		}
+		.cards {
+			.card {
+				position: relative;
+				margin: 0 25px;
+				padding: 0 20px 20px 20px;
+				min-height: 330px;
+				display: flex;
+				flex-direction: column;
+				align-items: flex-start;
+				h3 {
+					margin-top: auto;
+					margin-bottom: 10px;
+				}
+				p {
+					font-size: 14px;
+					line-height: 1.3;
+				}
+				.action {
+					margin-top: 20px;
+					a {
+						display: block;
+					}
+				}
+				img {
+					align-self: center;
+					max-height: 140px;
+					-webkit-transition: transform 0.2s 0s linear;
+					-moz-transition: transform 0.2s 0s linear;
+					-o-transition: transform 0.2s 0s linear;
+					transition: transform 0.2s 0s linear;
+				}
+				&:hover {
+					img {
+						-moz-transform: scale(1.06);
+						-webkit-transform: scale(1.06);
+						-o-transform: scale(1.06);
+						-ms-transform: scale(1.06);
+						transform: scale(1.06);
+					}
+				}
+				* {
+					position: relative;
+					z-index: 1;
+					color: white;
+				}
+				&:before {
+					content: "";
+					position: absolute;
+					z-index: 0;
+					width: 100%;
+					height: calc(100% - 70px);
+					bottom: 0;
+					left: 0;
+					border-radius: 10px;
+				}
+			}
+			.card[data-card-index="0"] {
+				&:before {
+					background: #E88CA7;
+				}
+			}
+			.card[data-card-index="1"] {
+				&:before {
+					background: #EAD16C;
+				}
+			}
+			.card[data-card-index="2"] {
+				&:before {
+					background: #AF9AF8;
+				}
+			}
+			.card[data-card-index="3"] {
+				&:before {
+					background: #90BEF4;
+				}
+			}
+			.card[data-card-index="4"] {
+				&:before {
+					background: #6881E8;
+				}
+			}
+			.card[data-card-index="5"] {
+				&:before {
+					background: #5AC6AE;
+				}
+			}
+			.slick-list {
+				overflow-x: visible;
+				overflow-y: visible;
+			}
+			.card.slick-slide {
+				-moz-transform: scale(1);
+				-webkit-transform: scale(1);
+				-o-transform: scale(1);
+				-ms-transform: scale(1);
+				transform: scale(1);
+				-webkit-transition: transform 0.3s 0s ease-in-out;
+				-moz-transition: transform 0.3s 0s ease-in-out;
+				-o-transition: transform 0.3s 0s ease-in-out;
+				transition: transform 0.3s 0s ease-in-out;
+			}
+			.card.slick-slide.slick-center {
+				-moz-transform: scale(1.2);
+				-webkit-transform: scale(1.2);
+				-o-transform: scale(1.2);
+				-ms-transform: scale(1.2);
+				transform: scale(1.2);
+			}
+		}
+		.cards.slick-slider {
+			padding-bottom: 80px;
+		}
+	}
+}
+@media screen and (max-width: 1200px) {
+	.theme-onesiam {
+		.sc-benefits {
+			.cards {
+				.card {
+					min-height: 350px;
+				}
+			}
+		}
+	}
+}
+@media screen and (max-width: 767px) {
+	.theme-onesiam {
+		.sc-benefits {
+			.cards {
+				.card {
+					margin: 0 15px;
+					padding: 0 20px 20px 20px;
+					min-height: 320px;
+				}
+				.card.slick-slide.slick-center {
+					-moz-transform: scale(1.1);
+					-webkit-transform: scale(1.1);
+					-o-transform: scale(1.1);
+					-ms-transform: scale(1.1);
+					transform: scale(1.1);
+				}
+			}
+			.cards.slick-slider {
+				padding-bottom: 50px;
+			}
+		}
+	}
+}
