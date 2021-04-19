@@ -1,9 +1,0 @@
-.theme-shopee .sc-product-hero .image img {
-  width: 687px;
-}
-
-@media screen and (max-width: 767px) {
-  .theme-shopee .sc-product-hero .image img {
-    width: 325px;
-  }
-}

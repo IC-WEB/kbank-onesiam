@@ -77,9 +77,11 @@ function img() {
 }
 
 function html() {
-  return src(htmlDir + "*.html")
-    .pipe(validator())
-    .pipe(dest(distDirHtml + "/"));
+  return (
+    src(htmlDir + '*.html')
+      // .pipe(validator())
+      .pipe(dest(distDirHtml + '/'))
+  );
 }
 
 // browserSync
