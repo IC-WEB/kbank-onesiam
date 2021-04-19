@@ -86,7 +86,7 @@ function html() {
 const browserSyncWatch = () => {
   browserSync.init({
     server: './',
-    port: 3335,
+    port: 3336,
   });  
 
   watch(baseDir + "css/*.css", css);
