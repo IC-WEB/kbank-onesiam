@@ -49,7 +49,7 @@ $(document).ready(function ($) {
       setCardHeight();
     });
 
-    $('.sc-special .cards').slick({
+    const slickMain = $('.sc-special .cards').slick({
       centerMode: true,
       centerPadding: '0px',
       slidesToShow: 3,
@@ -73,6 +73,25 @@ $(document).ready(function ($) {
         },
       ],
     });
+    
+    $('.sc-special .cardTab__item').on('click', function (e) {
+      e.preventDefault();
+      // $('.sc-special .cards').slick('unslick');
+      $('.sc-special .cardWrap').removeClass('cardWrap--active');
+
+      $('.sc-special .cardTab__item').removeClass('cardTab__item--active');
+      $('.sc-special .cardTab__item .cardTab__icon').removeClass('active');
+
+      $(this).addClass('cardTab__item--active').parent('.cardTab__icon');
+      $('.sc-special .cardTab__item--active')
+        .find('.cardTab__icon')
+        .addClass('active');
+      $('.sc-special .cardWrap-' + $(this).attr('id')).addClass(
+        'cardWrap--active'
+      );
+      $('.sc-special .cardWrap-' + $(this).attr('id')).slick('refresh');
+    });
+
   } catch (error) {
     console.log('>', error);
   }

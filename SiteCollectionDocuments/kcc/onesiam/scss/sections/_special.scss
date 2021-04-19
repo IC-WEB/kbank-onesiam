@@ -1,10 +1,11 @@
 .theme-onesiam {
 	.sc-special {
-		.cards {
+		.cards {			
 			margin-left: -10px;
 			margin-right: -10px;
 			padding-bottom: 40px;
-			margin-bottom: 0;
+			margin-bottom: 0;			
+
 			.slick-list {
 				overflow-x: hidden;
 				overflow-y: hidden;
@@ -34,12 +35,66 @@
 						}
 					}
 				}
-			}
+			}			
 		}
 
 		.cardTab {
+			$self: &;
 			max-width: 350px;
 			margin-bottom: 20px;
+
+			&__item {
+				padding-right: 25px;
+				position: relative;
+				// transition:  all 100ms ease-out;
+
+				&--active {
+					padding-right: 0;
+					margin-right: 25px;
+
+					&.cardTab__item--last { /* &#{ $self }__item--last */
+						padding-left: 0;
+						margin-left: 0;
+					}
+				}
+
+				&--last {
+					padding-right: 0;
+					margin-right: 0;
+					padding-left: 25px;
+					margin-left: -25px;
+				}
+			}
+
+			&__icon {
+				position: absolute;
+				width: 24px;
+				height: 24px;
+				right: -10px;
+				top: -10px;
+				visibility: hidden;
+
+				&.active {
+					visibility: visible;
+				}
+			}
+
+			&__link {
+				display: block;
+			}
+		}
+
+		.cardWrap {
+			height: 0;
+  		overflow: hidden;
+			visibility: hidden;
+			padding-bottom: 0;
+
+			&--active {
+				height: auto;
+				visibility: visible;
+				padding-bottom: 40px;
+			}
 		}
 	}	
 }

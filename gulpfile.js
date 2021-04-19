@@ -92,7 +92,7 @@ const browserSyncWatch = () => {
   });  
 
   watch(baseDir + "css/*.css", css);
-  watch(baseDir + "scss/*.scss", scss);  
+  watch(baseDir + 'scss/**/*.scss', scss);  
   watch(baseDir + "js/*.js", js);
   watch(baseDir + "img/*", img);
   // watch(htmlDir + "*.html", html);
