@@ -1,0 +1,141 @@
+@font-face {
+    font-family: 'iconkcc';
+    src: url('../font/iconkcc/iconkcc.eot');
+    src: url('../font/iconkcc/iconkcc.eot#iefix') format('embedded-opentype'),
+         url('../font/iconkcc/iconkcc.ttf') format('truetype'),
+         url('../font/iconkcc/iconkcc.woff') format('woff'),
+         url('../font/iconkcc/iconkcc.svg#iconkcc') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.ic {
+    font-family: 'iconkcc' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: middle;
+}
+
+.ic-exchange-reward-points:before {
+  content: "\e926";
+}
+.ic-other:before {
+  content: "\e924";
+}
+.ic-wealth:before {
+  content: "\e925";
+}
+.ic-external-link:before {
+  content: "\e923";
+}
+.ic-medical:before {
+  content: "\e910";
+}
+.ic-tag:before {
+  content: "\e922";
+}
+.ic-close:before {
+  content: "\e921";
+}
+.ic-close-circle:before {
+  content: "\e920";
+}
+.ic-chevron-left:before {
+  content: "\e91e";
+}
+.ic-pencil:before {
+  content: "\e91f";
+}
+.ic-download:before {
+  content: "\e91b";
+}
+.ic-minus:before {
+  content: "\e91c";
+}
+.ic-plus:before {
+  content: "\e91d";
+}
+.ic-alert:before {
+  content: "\e919";
+}
+.ic-arrow-left:before {
+  content: "\e91a";
+}
+.ic-chevron-down:before {
+  content: "\e918";
+}
+.ic-check-circle:before {
+  content: "\e900";
+}
+.ic-chevron-right:before {
+  content: "\e901";
+}
+.ic-chevron-up:before {
+  content: "\e902";
+}
+.ic-compare:before {
+  content: "\e903";
+}
+.ic-faq:before {
+  content: "\e904";
+}
+.ic-filter:before {
+  content: "\e905";
+}
+.ic-food:before {
+  content: "\e906";
+}
+.ic-hand-money:before {
+  content: "\e907";
+}
+.ic-heart-o:before {
+  content: "\e908";
+}
+.ic-like:before {
+  content: "\e909";
+}
+.ic-line:before {
+  content: "\e90a";
+}
+.ic-map-marker:before {
+  content: "\e90b";
+}
+.ic-phone-o:before {
+  content: "\e90c";
+}
+.ic-plane-o:before {
+  content: "\e90d";
+}
+.ic-promotion:before {
+  content: "\e90e";
+}
+.ic-ribbon-star:before {
+  content: "\e90f";
+}
+.ic-ribbon:before {
+  content: "\e911";
+}
+.ic-search-square:before {
+  content: "\e912";
+}
+.ic-seat-couple:before {
+  content: "\e913";
+}
+.ic-seat:before {
+  content: "\e914";
+}
+.ic-security-plane-o:before {
+  content: "\e915";
+}
+.ic-security:before {
+  content: "\e916";
+}
+.ic-star-o:before {
+  content: "\e917";
+}

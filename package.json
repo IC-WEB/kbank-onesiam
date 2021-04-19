@@ -1,5 +1,5 @@
 {
-  "name": "kbank-promotion-xpc-202104",
+  "name": "kbank-kcc-onesiam",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
     "prod": "gulp",
     "build:tailwindcss": "npx tailwindcss-cli@latest build -o ./SiteCollectionDocuments/promotion/xpc-202104/css/tailwind.css"
   },
-  "author": "",
+  "author": "Bluenarysun <tee.emilond@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.13.15",
@@ -41,5 +41,6 @@
   "description": "",
   "dependencies": {
     "tailwindcss": "^2.0.3"
-  }
+  },
+  "repository": "https://github.com/IC-WEB/kbank-promotion.git"
 }

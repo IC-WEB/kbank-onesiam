@@ -1,0 +1,151 @@
+.kcc,
+.popup-content-style .mfp-content .content {
+  font-family: Kanit, notosansthai, Arial, sans-serif;
+  font-size: 16px;
+}
+
+.kcc h1,
+.kcc h2,
+.kcc h3,
+.kcc h4,
+.kcc h5,
+.kcc h6,
+.kcc .h1,
+.kcc .h2,
+.kcc .h3,
+.kcc .h4,
+.kcc .h5,
+.kcc .h6,
+.kcc strong,
+.kcc a {
+  font-family: Kanit, notosansthai, Arial, sans-serif;
+  font-weight: 500; /*medium*/
+}
+
+.kcc p,
+.kcc .display-1,
+.kcc .display-2,
+.kcc .display-3,
+.kcc .display-4,
+.kcc .display-5,
+.kcc .display-6,
+.kcc .display-7,
+.kcc .display-8 {
+  font-family: Kanit, notosansthai, Arial, sans-serif;
+  font-weight: 300; /*light*/
+}
+
+.kcc .font-default,
+.kcc .font-default * {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+.kcc .font-default strong {
+  font-weight: 700;
+}
+
+.kcc span {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.kcc a {
+  font-size: 14px;
+}
+
+.kcc h1,
+.kcc .h1,
+.kcc .display-1 {
+  font-size: 35px;
+  line-height: 1.5;
+}
+
+.kcc h2,
+.kcc .h2,
+.kcc .display-2 {
+  font-size: 28px;
+  line-height: 1.5;
+}
+
+.kcc h3,
+.kcc .h3,
+.kcc .display-3 {
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.kcc h4,
+.kcc .h4,
+.kcc .display-4 {
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+.kcc h5,
+.kcc .h5,
+.kcc .display-5 {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.kcc h6,
+.kcc .h6,
+.kcc .display-6 {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.kcc .display-7 {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.kcc .display-8 {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+@media screen and (max-width: 991px) {
+  .kcc h1,
+  .kcc .h1,
+  .kcc .display-1 {
+    font-size: 26px;
+    line-height: 1.5;
+  }
+
+  .kcc h2,
+  .kcc .h2,
+  .kcc .display-2 {
+    font-size: 22px;
+    line-height: 1.25
+  }
+
+  .kcc h3,
+  .kcc .h3,
+  .kcc .display-3 {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+
+  .kcc h4,
+  .kcc .h4,
+  .kcc .display-4 {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+  .kcc h5,
+  .kcc .h5,
+  .kcc .display-5 {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  .kcc h6,
+  .kcc .h6,
+  .kcc .display-6 {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+}

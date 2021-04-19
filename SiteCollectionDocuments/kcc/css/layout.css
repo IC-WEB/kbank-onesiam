@@ -1,0 +1,53 @@
+.visible-w767,
+.visible-w991,
+.visible-w1023,
+.visible-w1169 {
+  display: none !important;
+}
+
+.hidden-w767,
+.hidden-w991,
+.hidden-w1023,
+.hidden-w1169 {
+  display: block !important;
+}
+
+@media screen and (max-width: 1169px) {
+  .hidden-w1169 {
+    display: none !important;
+  }
+
+  .visible-w1169 {
+    display: block !important;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .hidden-w1023 {
+    display: none !important;
+  }
+
+  .visible-w1023 {
+    display: block !important;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .hidden-w991 {
+    display: none !important;
+  }
+
+  .visible-w991 {
+    display: block !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .hidden-w767 {
+    display: none !important;
+  }
+
+  .visible-w767 {
+    display: block !important;
+  }
+}

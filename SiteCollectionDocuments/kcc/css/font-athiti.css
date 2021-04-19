@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'athiti_bold';
+  src: url('../../../SiteCollectionDocuments/assets/fonts/athiti/Athiti-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'athiti_semibold';
+  src: url('../../../SiteCollectionDocuments/assets/fonts/athiti/Athiti-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'athiti_medium';
+  src: url('../../../SiteCollectionDocuments/assets/fonts/athiti/Athiti-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'athiti_regular';
+  src: url('../../../SiteCollectionDocuments/assets/fonts/athiti/Athiti-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'athiti_light';
+  src: url('../../../SiteCollectionDocuments/assets/fonts/athiti/Athiti-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'athiti_extralight';
+  src: url('../../../SiteCollectionDocuments/assets/fonts/athiti/Athiti-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}

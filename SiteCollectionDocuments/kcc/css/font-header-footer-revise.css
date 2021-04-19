@@ -1,0 +1,76 @@
+/*desktop*/
+.kcc .header-main .header-top .dropdown-site a,
+.kcc .header-main .header-top .main-nav a.link,
+.kcc .header-main .header-top .main-nav .link-ft-contact a,
+.kcc .header-main .header-top .dropdown-login .dropdown-item a,
+.kcc .footer-main .footer-links .box-ft-links .link a,
+.kcc .footer-main .footer-bottom .links-utilities a {
+  font-weight: 300;
+}
+
+.kcc .header-main .header-top .main-nav a.nav-link,
+.kcc .footer-main .footer-top a,
+.kcc .footer-main .footer-links .box-ft-links h3.heading,
+.kcc .footer-main .footer-links .box-ft-links h3.heading a,
+.kcc .footer-main .footer-links .box-right .row-cc h3 {
+  font-weight: 500;
+}
+
+.kcc .header-main .header-top .main-nav a.link {
+  text-decoration: none;
+}
+
+.kcc .header-main .header-top .main-nav a.link:hover {
+  text-decoration: underline;
+}
+
+.kcc .footer-main .footer-links .box-ft-links h3.heading {
+  font-family: Kanit, notosansthai, Arial, sans-serif;
+}
+
+.kcc .footer-main .footer-links .box-right .row-cc h3 {
+  font-size: 14px;
+}
+
+/*mobile*/
+.kcc .header-main .dropdown-site-m > a,
+.kcc .header-main .main-nav-m .page-nav-m.sub-menu-m .nav-back a,
+.kcc .header-main .row-utilities .row-cc-lang .box-cc a {
+  font-weight: 500;
+}
+
+.kcc .header-main .dropdown-list .dropdown-item a,
+.kcc .header-main .main-nav-m .page-nav-m.sub-menu-m a,
+.kcc .header-main .row-utilities a {
+  font-weight: 300;
+}
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+  .menu-mobile-container {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .menu-mobile-container {
+    -webkit-transition: all 0.6s 0s ease-in-out;
+    -moz-transition: all 0.6s 0s ease-in-out;
+    -o-transition: all 0.6s 0s ease-in-out;
+    transition: all 0.6s 0s ease-in-out;
+  }
+  
+  .footer-main {
+      padding-bottom: 63px;
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1199px) {
+  .header-top .main-nav .nav-item {
+    margin: 0 10px;
+  }
+
+  .header-top .dropdown-site,
+  .header-top .dropdown-login {
+    margin-left: 15px;
+  }
+}

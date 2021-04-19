@@ -17,11 +17,10 @@ const postcss = require('gulp-postcss');
  
 // const gulpCopy = require('gulp-copy');
 // const otherGulpFunction = require('gulp-other-function');
-
-let baseDir = "./SiteCollectionDocuments/promotion/xpc-202104/";
-let htmlDir = "./TH/promotion/pages//";
-let distDir = "./SiteCollectionDocuments/promotion/xpc-202104/";
-let distDirHtml = "./TH/promotion/pages/";
+const baseDir = './SiteCollectionDocuments/kcc/onesiam/';
+const htmlDir = './TH/personal/CreditCard/Pages/';
+const distDir = './SiteCollectionDocuments/kcc/onesiam/';
+const distDirHtml = './TH/personal/CreditCard/Pages/';
 // Clean assets
 
 
@@ -59,13 +58,13 @@ function css() {
 function scss() {
   const source = baseDir + "/scss/*.scss";
   
-  return src(source)    
-    .pipe(sourcemaps.init())    
-    .pipe(sass.sync({outputStyle: 'compressed'}).on('error', sass.logError))        
+  return src(source)
+    .pipe(sourcemaps.init())
+    .pipe(sass.sync({ outputStyle: 'compressed' }).on('error', sass.logError))
     .pipe(postcss())
-    .pipe(concat('page-promotion-xpc-202104.min.css'))
+    .pipe(concat('theme-onesiam.min.min.css'))
     .pipe(sourcemaps.write('.'))
-    .pipe(dest(distDir + "/dist/"))
+    .pipe(dest(distDir + '/dist/'))
     .pipe(browserSync.stream());
 }
 // Optimize images

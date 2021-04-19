@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'archivo';
+    src: url('../font/archivo/archivo-bold.eot');
+    src: url('../font/archivo/archivo-bold.eot?#iefix') format('embedded-opentype'),
+         url('../font/archivo/archivo-bold.woff2') format('woff2'),
+         url('../font/archivo/archivo-bold.woff') format('woff'),
+         url('../font/archivo/archivo-bold.ttf') format('truetype'),
+         url('../font/archivo/archivo-bold.svg#archivobold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'archivo';
+    src: url('../font/archivo/archivo-regular.eot');
+    src: url('../font/archivo/archivo-regular.eot?#iefix') format('embedded-opentype'),
+         url('../font/archivo/archivo-regular.woff2') format('woff2'),
+         url('../font/archivo/archivo-regular.woff') format('woff'),
+         url('../font/archivo/archivo-regular.ttf') format('truetype'),
+         url('../font/archivo/archivo-regular.svg#archivoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'archivo';
+    src: url('../font/archivo/archivo-medium.eot');
+    src: url('../font/archivo/archivo-medium.eot?#iefix') format('embedded-opentype'),
+         url('../font/archivo/archivo-medium.woff2') format('woff2'),
+         url('../font/archivo/archivo-medium.woff') format('woff'),
+         url('../font/archivo/archivo-medium.ttf') format('truetype'),
+         url('../font/archivo/archivo-medium.svg#archivomedium') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'notosansthai';
+    src: url('../font/notosansthai/notosansthai-black.eot');
+    src: url('../font/notosansthai/notosansthai-black.eot?#iefix') format('embedded-opentype'),
+         url('../font/notosansthai/notosansthai-black.woff2') format('woff2'),
+         url('../font/notosansthai/notosansthai-black.woff') format('woff'),
+         url('../font/notosansthai/notosansthai-black.ttf') format('truetype'),
+         url('../font/notosansthai/notosansthai-black.svg#noto_sans_thaiblack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'notosansthai';
+    src: url('../font/notosansthai/notosansthai-bold.eot');
+    src: url('../font/notosansthai/notosansthai-bold.eot?#iefix') format('embedded-opentype'),
+         url('../font/notosansthai/notosansthai-bold.woff2') format('woff2'),
+         url('../font/notosansthai/notosansthai-bold.woff') format('woff'),
+         url('../font/notosansthai/notosansthai-bold.ttf') format('truetype'),
+         url('../font/notosansthai/notosansthai-bold.svg#noto_sans_thaibold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'notosansthai';
+    src: url('../font/notosansthai/notosansthai-medium.eot');
+    src: url('../font/notosansthai/notosansthai-medium.eot?#iefix') format('embedded-opentype'),
+         url('../font/notosansthai/notosansthai-medium.woff2') format('woff2'),
+         url('../font/notosansthai/notosansthai-medium.woff') format('woff'),
+         url('../font/notosansthai/notosansthai-medium.ttf') format('truetype'),
+         url('../font/notosansthai/notosansthai-medium.svg#noto_sans_thaimedium') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'notosansthai';
+    src: url('../font/notosansthai/notosansthai-regular.eot');
+    src: url('../font/notosansthai/notosansthai-regular.eot?#iefix') format('embedded-opentype'),
+         url('../font/notosansthai/notosansthai-regular.woff2') format('woff2'),
+         url('../font/notosansthai/notosansthai-regular.woff') format('woff'),
+         url('../font/notosansthai/notosansthai-regular.ttf') format('truetype'),
+         url('../font/notosansthai/notosansthai-regular.svg#noto_sans_thairegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
