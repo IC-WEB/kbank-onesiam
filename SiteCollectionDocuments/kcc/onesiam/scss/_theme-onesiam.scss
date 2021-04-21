@@ -17,6 +17,10 @@ main.loading {
 		background: rgb(34,66,87);
     background: linear-gradient(180deg, rgba(34,66,87,1) 0%, rgba(1,41,66,1) 100%);
 		padding-top: 150px;
+		.product-detail {
+			background-color: transparent;
+			margin-top: 0;
+		}
 	}
 	#related-card {
 		h3.heading {

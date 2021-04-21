@@ -39,6 +39,21 @@ function setCardHeight() {
 
 $(document).ready(function ($) {
   try {
+    $('.sc-product-hero .cards').slick({
+      arrows: false,
+      autoplay: true,
+      autoplaySpeed: 5000,
+      centerMode: true,
+      centerPadding: '0px',
+      fade: true,
+      infinite: true,
+      slidesToShow: 1,
+    });
+  } catch (error) {
+    console.log(error);
+  }
+  
+  try {
     $('.sc-special .cards').on('init', function (slick) {
       resetCardHeight();
       setCardHeight();
