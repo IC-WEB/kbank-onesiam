@@ -1,5 +1,6 @@
 .theme-onesiam {
 	.sc-special {
+		background-color: white;
 		.cards {			
 			margin-left: -10px;
 			margin-right: -10px;
@@ -52,9 +53,7 @@
 				&--active {
 					transition: all 0.5s ease-in;					
 
-					&.cardTab__item--last { /* &#{ $self }__item--last */						
-					}
-
+	
 					.cardTab__img {
 						transition: transform 0.2s, opacity 0.2s ease;
 						transform: scale(1.15);
