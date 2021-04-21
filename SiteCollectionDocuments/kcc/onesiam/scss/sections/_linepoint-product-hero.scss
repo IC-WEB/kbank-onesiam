@@ -1,0 +1,64 @@
+.theme-onesiam .sc-product-hero {
+    position: relative;
+    margin-top: 30px;
+  }
+  
+  .theme-onesiam .sc-product-hero:before {
+    content: "";
+    position: absolute;
+    z-index: 0;
+  
+    width: 100%;
+    height: 75%;
+    bottom: 0;
+    left: 0;
+  
+    background: url(/SiteCollectionDocuments/kcc/onesiam/img/hero/bg-left.png), 
+      url(/SiteCollectionDocuments/kcc/onesiam/img/hero/bg-right.png), white;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: center left, center right;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .theme-onesiam .sc-product-hero .image,
+  .theme-onesiam .sc-product-hero .cards {
+    position: relative;
+    z-index: 10;
+  }
+  
+  .theme-onesiam .sc-product-hero .image {
+    max-width: 100%;
+  }
+  
+  .theme-onesiam .sc-product-hero .image img {
+    width: 950px;
+  }
+  
+  .theme-onesiam .sc-product-hero .cards .card {
+    opacity: 0;
+    transition: opacity 300ms;
+  }
+  
+  .theme-onesiam .sc-product-hero .cards .card.slick-cloned.slick-center,
+  .theme-onesiam .sc-product-hero .cards .card.slick-current.slick-center {
+    opacity: 1;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .theme-onesiam .sc-product-hero:before {
+      background: url(/SiteCollectionDocuments/kcc/onesiam/img/hero/bg-left-mobile.png), 
+        url(/SiteCollectionDocuments/kcc/onesiam/img/hero/bg-right-mobile.png), white;
+      background-repeat: no-repeat;
+      background-size: 160px;
+      background-position: bottom left, bottom right;
+      border-radius: 10px 10px 0 0;
+    }
+  
+    .theme-onesiam .sc-product-hero .cards .card img {
+      width: 100%;
+      max-width: 325px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
