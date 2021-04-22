@@ -38,6 +38,8 @@ function setCardHeight() {
 }
 
 $(document).ready(function ($) {
+  $('#page').addClass('theme-onesiam');
+
   try {
     $('.sc-product-hero .cards').slick({
       arrows: false,
