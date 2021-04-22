@@ -19,54 +19,54 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="">
 
-  <link rel="shortcut icon" href="../../../../SiteCollectionDocuments/assets/img/favicon.ico">
-  <link rel="apple-touch-icon" sizes="60x60" href="../../../../SiteCollectionDocuments/assets/img/apple-touch-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="../../../../SiteCollectionDocuments/assets/img/apple-touch-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="../../../../SiteCollectionDocuments/assets/img/apple-touch-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="../../../../SiteCollectionDocuments/assets/img/apple-touch-icon-152x152.png">
+  <link rel="shortcut icon" href="/SiteCollectionDocuments/assets/img/favicon.ico">
+  <link rel="apple-touch-icon" sizes="60x60" href="/SiteCollectionDocuments/assets/img/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/SiteCollectionDocuments/assets/img/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/SiteCollectionDocuments/assets/img/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/SiteCollectionDocuments/assets/img/apple-touch-icon-152x152.png">
 
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/assets/css/structure.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/assets/css/structure-rwd.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/header-footer/css/header-footer.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/assets/css/structure.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/assets/css/structure-rwd.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/header-footer/css/header-footer.css">
 
   <!--[if lte IE 9]>
-    <link rel="stylesheet" href="../../../../SiteCollectionDocuments/assets/css/lte-ie9.css">
+    <link rel="stylesheet" href="/SiteCollectionDocuments/assets/css/lte-ie9.css">
   <![endif]-->
 
   <!-- Style for New Template : START -->  
   <!--CSS Plugin - START -->
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/plugin/swiper/swiper.min.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/plugin/slick/slick.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/plugin/slick/slick-theme.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/plugin/msdropdown/msdropdown.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/plugin/magnific-popup/magnific-popup.min.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/plugin/scrollbar/jquery.scrollbar.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/plugin/swiper/swiper.min.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/plugin/slick/slick.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/plugin/slick/slick-theme.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/plugin/msdropdown/msdropdown.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/plugin/magnific-popup/magnific-popup.min.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/plugin/scrollbar/jquery.scrollbar.css">
   <!--CSS Plugin - END -->
   
   <!-- KCC Stylesheet -->
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/css/library/bootstrap.min.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/css/font.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/css/iconkcc.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/css/theme.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/css/theme-rwd.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/css/library/bootstrap.min.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/css/font.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/css/iconkcc.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/css/theme.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/css/theme-rwd.css">
   <!-- Style for New Template : END -->
 
   <!-- Custom style sheet for Shopee Credit Card -->
   <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/css/font-revise.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/css/font-header-footer-revise.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/css/layout.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/css/helper.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/css/font-revise.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/css/font-header-footer-revise.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/css/layout.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/css/helper.css">
   
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/onesiam/dist/styles.min.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/onesiam/dist/theme-onesiam.min.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/onesiam/dist/styles.min.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/onesiam/dist/theme-onesiam.min.css">
 
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/assets/css/compn-overflower.css">
-  <link rel="stylesheet" href="../../../../SiteCollectionDocuments/kcc/onesiam/css/override.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/assets/css/compn-overflower.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/onesiam/css/override.css">
   <!-- End -->
 
   <!-- JS -->
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/js/library/modernizr-custom.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/js/library/modernizr-custom.js"></script>
 
   <!--Google Analytics-->
   
@@ -78,7 +78,7 @@
   <!-- <script src="//assets.adobedtm.com/launch-EN61699a09a933489699c016595b86f9f3.min.js"></script> -->
   <script src="//assets.adobedtm.com/launch-EN31ba7d43525d4548be5ad09f049aee43-development.min.js"></script>
 
-  <!-- <script type="text/javascript" src="../../../../SiteCollectionDocuments/assets/js/utmPassthrough.js"></script> -->
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/assets/js/utmPassthrough.js"></script> -->
 
   <!-- Google Tag Manager -->
   <!-- <script>(function (w, d, s, l, i) {
@@ -113,10 +113,10 @@
           <a href="#" class="btn-dd-site btn-personal">บุคคล</a>
           <div class="dropdown-list">
             <ul>
-              <li class="dropdown-item dropdown-sme"><a href="../../../../business/sme/Pages/index.html">เอสเอ็มอี</a></li>
-              <li class="dropdown-item dropdown-business"><a href="../../../../business/Pages/index.html">ธุรกิจขนาดใหญ่</a></li>
-              <li class="dropdown-item dropdown-inter-business"><a href="../../../../international-business/Pages/index.html">ธุรกิจระหว่างประเทศ</a></li>
-              <li class="dropdown-item dropdown-ir"><a href="../../../../ir/Pages/index.html">นักลงทุนสัมพันธ์</a></li>
+              <li class="dropdown-item dropdown-sme"><a href="/business/sme/Pages/index.html">เอสเอ็มอี</a></li>
+              <li class="dropdown-item dropdown-business"><a href="/business/Pages/index.html">ธุรกิจขนาดใหญ่</a></li>
+              <li class="dropdown-item dropdown-inter-business"><a href="/international-business/Pages/index.html">ธุรกิจระหว่างประเทศ</a></li>
+              <li class="dropdown-item dropdown-ir"><a href="/ir/Pages/index.html">นักลงทุนสัมพันธ์</a></li>
             </ul>
           </div>
         </div>
@@ -142,14 +142,14 @@
               <div class="box-inner">
                 <ul>
                   <li class="nav-back"><a href="#menu_home">บัญชี</a></li>
-                  <li><a href="../../../../personal/account/Pages/savings.html">บัญชีเงินฝากออมทรัพย์</a></li>
-                  <li><a href="../../../../personal/account/Pages/fixed.html">บัญชีเงินฝากประจำ</a></li>
-                  <li><a href="../../../../personal/account/Pages/taweesup.html">บัญชีเงินฝากทวีทรัพย์</a></li>
-                  <li><a href="../../../../personal/account/Pages/flexible-plus-family-protection.html">บัญชีเงินฝากคล่องตัว ครอบครัวอุ่นใจ</a></li>
-                  <li><a href="../../../../personal/account/Pages/super-senior.html">บัญชีเงินฝากประจำซูเปอร์ ซีเนียร์</a></li>
-                  <li><a href="../../../../personal/account/Pages/current.html">บัญชีเงินฝากกระแสรายวัน</a></li>
-                  <li><a href="../../../../personal/account/Pages/foreign-currency.html">บัญชีเงินฝากสกุลเงินต่างประเทศ</a></li>
-                  <li><a href="../../../../personal/account/Pages/salary.html" class="link">บัญชีเงินเดือน</a></li>
+                  <li><a href="/personal/account/Pages/savings.html">บัญชีเงินฝากออมทรัพย์</a></li>
+                  <li><a href="/personal/account/Pages/fixed.html">บัญชีเงินฝากประจำ</a></li>
+                  <li><a href="/personal/account/Pages/taweesup.html">บัญชีเงินฝากทวีทรัพย์</a></li>
+                  <li><a href="/personal/account/Pages/flexible-plus-family-protection.html">บัญชีเงินฝากคล่องตัว ครอบครัวอุ่นใจ</a></li>
+                  <li><a href="/personal/account/Pages/super-senior.html">บัญชีเงินฝากประจำซูเปอร์ ซีเนียร์</a></li>
+                  <li><a href="/personal/account/Pages/current.html">บัญชีเงินฝากกระแสรายวัน</a></li>
+                  <li><a href="/personal/account/Pages/foreign-currency.html">บัญชีเงินฝากสกุลเงินต่างประเทศ</a></li>
+                  <li><a href="/personal/account/Pages/salary.html" class="link">บัญชีเงินเดือน</a></li>
                   <li class="has-submenu"><a href="#menu_advise_account">แนะนำ</a></li>
                 </ul>
               </div>
@@ -410,10 +410,10 @@
                 <ul>
                   <li class="nav-back"><a href="#menu_home">แนะนำ</a></li>
                   <li>
-                    <a href="../../../../faq/Pages/index.html">คำถามที่พบบ่อย</a>
+                    <a href="/faq/Pages/index.html">คำถามที่พบบ่อย</a>
                   </li>
                   <li>
-                    <a href="../../../../e-service-transaction/Pages/index.html">พิมพ์เอกสารการทำธุรกรรม E-Service</a>
+                    <a href="/e-service-transaction/Pages/index.html">พิมพ์เอกสารการทำธุรกรรม E-Service</a>
                   </li>
                 </ul>
               </div>
@@ -423,12 +423,12 @@
               <div class="box-inner">
                 <ul>
                   <li class="nav-back"><a href="#menu_home">บริษัทของธนาคารกสิกรไทย</a></li>
-                  <li class="link-k-asset"><a href="http://www.kasikornasset.com/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-01-m.png" alt="K-Asset"></a></li>
-                  <li class="link-k-research"><a href="https://www.kasikornresearch.com/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-02-m.png" alt="K-Research"></a></li>
-                  <li class="link-k-securities"><a href="http://www.kasikornsecurities.com/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-03-m.png" alt="K-Securities"></a></li>
-                  <li class="link-k-leasing"><a href="http://www.kasikornleasing.com/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-04-m.png" alt="K-Leasing"></a></li>
-                  <li class="link-k-fe"><a href="http://www.kasikornfactory-equipment.com/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-05-m.png" alt="K-F&E"></a></li>
-                  <li class="link-kbtg"><a href="http://www.kbtg.tech/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-06-m.png" alt="KBTG"></a></li>
+                  <li class="link-k-asset"><a href="http://www.kasikornasset.com/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-01-m.png" alt="K-Asset"></a></li>
+                  <li class="link-k-research"><a href="https://www.kasikornresearch.com/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-02-m.png" alt="K-Research"></a></li>
+                  <li class="link-k-securities"><a href="http://www.kasikornsecurities.com/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-03-m.png" alt="K-Securities"></a></li>
+                  <li class="link-k-leasing"><a href="http://www.kasikornleasing.com/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-04-m.png" alt="K-Leasing"></a></li>
+                  <li class="link-k-fe"><a href="http://www.kasikornfactory-equipment.com/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-05-m.png" alt="K-F&E"></a></li>
+                  <li class="link-kbtg"><a href="http://www.kbtg.tech/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-06-m.png" alt="KBTG"></a></li>
                 </ul>
               </div>
             </div>
@@ -446,7 +446,7 @@
           <div class="row-nav-contact">
             <ul class="clearfix">
                 <li class="link-branch"><a href="https://www.kasikornbank.com/TH/Branch">ค้นหาสาขา</a></li>
-                <li class="link-contact"><a href="../../../../contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
+                <li class="link-contact"><a href="/contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
                 <li class="link-cc"><a href="https://www.kasikornbank.com/th/contact/Pages/k-contact-center.aspx">K-Contact Center</a></li>
             </ul>
           </div>
@@ -466,17 +466,17 @@
                 <p><a href="tel:02-8888888">02 8888888</a></p>
               </div>
               <div class="col-xs-5 box-lang">
-                <a href="../../../../Pages/index.html" class="btn-sw-lang">TH</a>
+                <a href="/Pages/index.html" class="btn-sw-lang">TH</a>
               </div>
             </div>
           </div>
         </div>
         <div class="row-link-affiliate">
           <ul class="clearfix">
-            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
-            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
-            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
-            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
+            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
+            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
+            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
+            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
           </ul>
         </div>
       </div>
@@ -485,16 +485,16 @@
       <div class="header-top">
         <div class="container header-top-inner clearfix">
           <div class="logo-kbank">
-            <a href="../../../../Pages/index.html"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-kbank.png" class="img-fluid" alt="Kasikorn Bank"></a>
+            <a href="/Pages/index.html"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-kbank.png" class="img-fluid" alt="Kasikorn Bank"></a>
           </div>
           <div class="hidden-mobile dropdown-site">
-            <a href="../../../../Pages/index.html" class="btn-dd-site btn-personal">บุคคล</a>
+            <a href="/Pages/index.html" class="btn-dd-site btn-personal">บุคคล</a>
             <div class="dropdown-list">
               <ul>
-                <li class="dropdown-item dropdown-sme"><a href="../../../../business/sme/Pages/index.html">เอสเอ็มอี</a></li>
-                <li class="dropdown-item dropdown-business"><a href="../../../../business/Pages/index.html">ธุรกิจขนาดใหญ่</a></li>
-                <li class="dropdown-item dropdown-inter-business"><a href="../../../../international-business/Pages/index.html">ธุรกิจระหว่างประเทศ</a></li>
-                <li class="dropdown-item dropdown-ir"><a href="../../../../ir/Pages/index.html">นักลงทุนสัมพันธ์</a></li>
+                <li class="dropdown-item dropdown-sme"><a href="/business/sme/Pages/index.html">เอสเอ็มอี</a></li>
+                <li class="dropdown-item dropdown-business"><a href="/business/Pages/index.html">ธุรกิจขนาดใหญ่</a></li>
+                <li class="dropdown-item dropdown-inter-business"><a href="/international-business/Pages/index.html">ธุรกิจระหว่างประเทศ</a></li>
+                <li class="dropdown-item dropdown-ir"><a href="/ir/Pages/index.html">นักลงทุนสัมพันธ์</a></li>
               </ul>
             </div>
           </div>
@@ -511,14 +511,14 @@
                           <div class="menu-inner">
                             <h3 class="heading">ผลิตภัณฑ์</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../personal/account/Pages/savings.html" class="link">บัญชีเงินฝากออมทรัพย์</a></li>
-                              <li><a href="../../../../personal/account/Pages/fixed.html" class="link">บัญชีเงินฝากประจำ</a></li>
-                              <li><a href="../../../../personal/account/Pages/taweesup.html" class="link">บัญชีเงินฝากทวีทรัพย์</a></li>
-                              <li><a href="../../../../personal/account/Pages/flexible-plus-family-protection.html" class="link">บัญชีเงินฝากคล่องตัว ครอบครัวอุ่นใจ</a></li>
-                              <li><a href="../../../../personal/account/Pages/super-senior.html" class="link">บัญชีเงินฝากประจำซูเปอร์ ซีเนียร์</a></li>
-                              <li><a href="../../../../personal/account/Pages/current.html" class="link">บัญชีเงินฝากกระแสรายวัน</a></li>
-                              <li><a href="../../../../personal/account/Pages/foreign-currency.html" class="link">บัญชีเงินฝากสกุลเงินต่างประเทศ</a></li>
-                              <li><a href="../../../../personal/account/Pages/salary.html" class="link">บัญชีเงินเดือน</a></li>
+                              <li><a href="/personal/account/Pages/savings.html" class="link">บัญชีเงินฝากออมทรัพย์</a></li>
+                              <li><a href="/personal/account/Pages/fixed.html" class="link">บัญชีเงินฝากประจำ</a></li>
+                              <li><a href="/personal/account/Pages/taweesup.html" class="link">บัญชีเงินฝากทวีทรัพย์</a></li>
+                              <li><a href="/personal/account/Pages/flexible-plus-family-protection.html" class="link">บัญชีเงินฝากคล่องตัว ครอบครัวอุ่นใจ</a></li>
+                              <li><a href="/personal/account/Pages/super-senior.html" class="link">บัญชีเงินฝากประจำซูเปอร์ ซีเนียร์</a></li>
+                              <li><a href="/personal/account/Pages/current.html" class="link">บัญชีเงินฝากกระแสรายวัน</a></li>
+                              <li><a href="/personal/account/Pages/foreign-currency.html" class="link">บัญชีเงินฝากสกุลเงินต่างประเทศ</a></li>
+                              <li><a href="/personal/account/Pages/salary.html" class="link">บัญชีเงินเดือน</a></li>
                             </ul>
                           </div>
                         </div>
@@ -527,10 +527,10 @@
                           <div class="menu-inner">
                             <h3 class="heading">แนะนำ</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../rate/Pages/deposits.html" class="link">อัตราดอกเบี้ยเงินฝาก</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">ออมเงินแบบไหนดี</a></li>
-                              <li><a href="../../../../personal/digital-banking/sms/Pages/index.html" class="link">บริการแจ้งความเคลื่อนไหวผ่านทาง SMS</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
+                              <li><a href="/rate/Pages/deposits.html" class="link">อัตราดอกเบี้ยเงินฝาก</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">ออมเงินแบบไหนดี</a></li>
+                              <li><a href="/personal/digital-banking/sms/Pages/index.html" class="link">บริการแจ้งความเคลื่อนไหวผ่านทาง SMS</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
                             </ul>
                           </div>
                         </div>
@@ -539,9 +539,9 @@
                             <div class="menu-inner">
                                 <h3 class="heading">สมัคร</h3>
                                 <ul class="link-list">
-                                    <li><a href="../../../../apply/account/Pages/index.html" class="link">เปิดบัญชีเงินฝาก</a></li>
-                                    <li><a href="../../../../apply/Pages/index.html" class="link">สมัครบริการเสริม</a></li>
-                                    <li><a href="../../../../download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
+                                    <li><a href="/apply/account/Pages/index.html" class="link">เปิดบัญชีเงินฝาก</a></li>
+                                    <li><a href="/apply/Pages/index.html" class="link">สมัครบริการเสริม</a></li>
+                                    <li><a href="/download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
                                 </ul>
                             </div>
                         </div> -->
@@ -553,16 +553,16 @@
                       <div class="clearfix box-footer">
                         <div class="f-left link-affiliate">
                           <ul class="clearfix">
-                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
-                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
+                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
                           </ul>
                         </div>
                         <div class="f-right link-ft-contact">
                           <ul class="clearfix">
                             <li class="link-branch"><a href="https://www.kasikornbank.com/TH/Branch">ค้นหาสาขา</a></li>
-                            <li class="link-contact"><a href="../../../../contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
+                            <li class="link-contact"><a href="/contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
                             <li class="link-cc"><a href="https://www.kasikornbank.com/th/contact/Pages/k-contact-center.aspx">K-Contact Center</a></li>
                           </ul>
                         </div>
@@ -581,9 +581,9 @@
                           <div class="menu-inner">
                             <h3 class="heading">ผลิตภัณฑ์</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../personal/debit-card/Pages/index.html" class="link">บัตรเดบิต</a></li>
-                              <li><a href="../../../../personal/credit-card/Pages/index.html" class="link">บัตรเครดิต</a></li>
-                              <li><a href="../../../../personal/express-cash-card/Pages/index.html" class="link">บัตรกดเงินสด</a></li>
+                              <li><a href="/personal/debit-card/Pages/index.html" class="link">บัตรเดบิต</a></li>
+                              <li><a href="/personal/credit-card/Pages/index.html" class="link">บัตรเครดิต</a></li>
+                              <li><a href="/personal/express-cash-card/Pages/index.html" class="link">บัตรกดเงินสด</a></li>
                             </ul>
                           </div>
                         </div>
@@ -592,11 +592,11 @@
                           <div class="menu-inner">
                             <h3 class="heading">แนะนำ</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../promotion/Pages/index.html" class="link">โปรโมชั่นและสิทธิพิเศษ</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">ใช้บัตรเครดิตอย่างไรให้ปลอดภัย</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">เลือกบัตรเครดิตที่เหมาะกับคุณ</a></li>
-                              <li><a href="../../../../personal/digital-banking/statement/Pages/index.html" class="link">บริการรับ Statement ทางอีเมล</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
+                              <li><a href="/promotion/Pages/index.html" class="link">โปรโมชั่นและสิทธิพิเศษ</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">ใช้บัตรเครดิตอย่างไรให้ปลอดภัย</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">เลือกบัตรเครดิตที่เหมาะกับคุณ</a></li>
+                              <li><a href="/personal/digital-banking/statement/Pages/index.html" class="link">บริการรับ Statement ทางอีเมล</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
                             </ul>
                           </div>
                         </div>
@@ -605,9 +605,9 @@
                           <div class="menu-inner">
                             <h3 class="heading">สมัคร</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../apply/credit-card/Pages/index.html" class="link">สมัครบัตร</a></li>
-                              <li><a href="../../../../apply/Pages/index.html" class="link">สมัครบริการเสริม</a></li>
-                              <li><a href="../../../../download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
+                              <li><a href="/apply/credit-card/Pages/index.html" class="link">สมัครบัตร</a></li>
+                              <li><a href="/apply/Pages/index.html" class="link">สมัครบริการเสริม</a></li>
+                              <li><a href="/download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
                             </ul>
                           </div>
                         </div>
@@ -619,16 +619,16 @@
                       <div class="clearfix box-footer">
                         <div class="f-left link-affiliate">
                           <ul class="clearfix">
-                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
-                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
+                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
                           </ul>
                         </div>
                         <div class="f-right link-ft-contact">
                           <ul class="clearfix">
                             <li class="link-branch"><a href="https://www.kasikornbank.com/TH/Branch">ค้นหาสาขา</a></li>
-                            <li class="link-contact"><a href="../../../../contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
+                            <li class="link-contact"><a href="/contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
                             <li class="link-cc"><a href="https://www.kasikornbank.com/th/contact/Pages/k-contact-center.aspx">K-Contact Center</a></li>
                           </ul>
                         </div>
@@ -647,9 +647,9 @@
                           <div class="menu-inner">
                             <h3 class="heading">ผลิตภัณฑ์</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../personal/loan/personal-loan/Pages/index.html" class="link">สินเชื่อบุคคล</a></li>
-                              <li><a href="../../../../personal/loan/home-loan/Pages/index.html" class="link">สินเชื่อบ้าน</a></li>
-                              <li><a href="../../../../personal/loan/car-loan/Pages/index.html" class="link">สินเชื่อรถ</a></li>
+                              <li><a href="/personal/loan/personal-loan/Pages/index.html" class="link">สินเชื่อบุคคล</a></li>
+                              <li><a href="/personal/loan/home-loan/Pages/index.html" class="link">สินเชื่อบ้าน</a></li>
+                              <li><a href="/personal/loan/car-loan/Pages/index.html" class="link">สินเชื่อรถ</a></li>
                             </ul>
                           </div>
                         </div>
@@ -658,11 +658,11 @@
                           <div class="menu-inner">
                             <h3 class="heading">แนะนำ</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../rate/Pages/index.html" class="link">อัตราดอกเบี้ยและค่าธรรมเนียม</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">ผ่อนบ้านอย่างไรให้หมดเร็ว</a></li>
-                              <li><a href="../../../../calculator/home-loan/Pages/monthly-payment.html" class="link">คำนวณสินเชื่อบ้าน</a></li>
-                              <li><a href="../../../../calculator/car-loan/Pages/new-car.html" class="link">คำนวณสินเชื่อรถ</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
+                              <li><a href="/rate/Pages/index.html" class="link">อัตราดอกเบี้ยและค่าธรรมเนียม</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">ผ่อนบ้านอย่างไรให้หมดเร็ว</a></li>
+                              <li><a href="/calculator/home-loan/Pages/monthly-payment.html" class="link">คำนวณสินเชื่อบ้าน</a></li>
+                              <li><a href="/calculator/car-loan/Pages/new-car.html" class="link">คำนวณสินเชื่อรถ</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
                             </ul>
                           </div>
                         </div>
@@ -671,8 +671,8 @@
                           <div class="menu-inner">
                             <h3 class="heading">สมัคร</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../apply/home-loan/Pages/index.html" class="link">สมัครสินเชื่อ</a></li>
-                              <li><a href="../../../../download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
+                              <li><a href="/apply/home-loan/Pages/index.html" class="link">สมัครสินเชื่อ</a></li>
+                              <li><a href="/download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
                             </ul>
                           </div>
                         </div>
@@ -684,16 +684,16 @@
                       <div class="clearfix box-footer">
                         <div class="f-left link-affiliate">
                           <ul class="clearfix">
-                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
-                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
+                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
                           </ul>
                         </div>
                         <div class="f-right link-ft-contact">
                             <ul class="clearfix">
                               <li class="link-branch"><a href="https://www.kasikornbank.com/TH/Branch">ค้นหาสาขา</a></li>
-                              <li class="link-contact"><a href="../../../../contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
+                              <li class="link-contact"><a href="/contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
                               <li class="link-cc"><a href="https://www.kasikornbank.com/th/contact/Pages/k-contact-center.aspx">K-Contact Center</a></li>
                             </ul>
                         </div>
@@ -712,8 +712,8 @@
                           <div class="menu-inner">
                             <h3 class="heading">ผลิตภัณฑ์</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../personal/insure/life/Pages/index.html" class="link">ประกันชีวิต</a></li>
-                              <li><a href="../../../../personal/insure/non-life/Pages/index.html" class="link">ประกันวินาศภัย</a></li>
+                              <li><a href="/personal/insure/life/Pages/index.html" class="link">ประกันชีวิต</a></li>
+                              <li><a href="/personal/insure/non-life/Pages/index.html" class="link">ประกันวินาศภัย</a></li>
                             </ul>
                           </div>
                         </div>
@@ -722,9 +722,9 @@
                           <div class="menu-inner">
                             <h3 class="heading">แนะนำ</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../faq/Pages/index.html" class="link">ทำไมถึงต้องทำประกันชีวิต</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">เลือกประกันที่เหมาะกับคุณ</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">ทำไมถึงต้องทำประกันชีวิต</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">เลือกประกันที่เหมาะกับคุณ</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
                             </ul>
                           </div>
                         </div>
@@ -745,16 +745,16 @@
                       <div class="clearfix box-footer">
                         <div class="f-left link-affiliate">
                           <ul class="clearfix">
-                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
-                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
+                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
                           </ul>
                         </div>
                         <div class="f-right link-ft-contact">
                           <ul class="clearfix">
                             <li class="link-branch"><a href="https://www.kasikornbank.com/TH/Branch">ค้นหาสาขา</a></li>
-                            <li class="link-contact"><a href="../../../../contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
+                            <li class="link-contact"><a href="/contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
                             <li class="link-cc"><a href="https://www.kasikornbank.com/th/contact/Pages/k-contact-center.aspx">K-Contact Center</a></li>
                           </ul>
                         </div>
@@ -773,9 +773,9 @@
                           <div class="menu-inner">
                             <h3 class="heading">ผลิตภัณฑ์</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../personal/invest/Pages/mutual-funds.html" class="link">กองทุนรวม</a></li>
-                              <li><a href="../../../../personal/invest/Pages/stock.html" class="link">หุ้น</a></li>
-                              <li><a href="../../../../personal/invest/Pages/future.html" class="link">ตราสารอนุพันธ์ / <br>สัญญาซื้อขายล่วงหน้า</a></li>
+                              <li><a href="/personal/invest/Pages/mutual-funds.html" class="link">กองทุนรวม</a></li>
+                              <li><a href="/personal/invest/Pages/stock.html" class="link">หุ้น</a></li>
+                              <li><a href="/personal/invest/Pages/future.html" class="link">ตราสารอนุพันธ์ / <br>สัญญาซื้อขายล่วงหน้า</a></li>
                             </ul>
                           </div>
                         </div>
@@ -784,8 +784,8 @@
                           <div class="menu-inner">
                             <h3 class="heading">แนะนำ</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../faq/Pages/index.html" class="link">เริ่มต้นลงทุนแบบไหนดี</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">เริ่มต้นลงทุนแบบไหนดี</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
                             </ul>
                           </div>
                         </div>
@@ -794,7 +794,7 @@
                           <div class="menu-inner">
                             <h3 class="heading">สมัคร</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
+                              <li><a href="/download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
                             </ul>
                           </div>
                         </div>
@@ -806,16 +806,16 @@
                       <div class="clearfix box-footer">
                         <div class="f-left link-affiliate">
                           <ul class="clearfix">
-                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
-                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
+                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
                           </ul>
                         </div>
                         <div class="f-right link-ft-contact">
                           <ul class="clearfix">
                             <li class="link-branch"><a href="https://www.kasikornbank.com/TH/Branch">ค้นหาสาขา</a></li>
-                            <li class="link-contact"><a href="../../../../contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
+                            <li class="link-contact"><a href="/contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
                             <li class="link-cc"><a href="https://www.kasikornbank.com/th/contact/Pages/k-contact-center.aspx">K-Contact Center</a></li>
                           </ul>
                         </div>
@@ -834,9 +834,9 @@
                           <div class="menu-inner">
                             <h3 class="heading">ผลิตภัณฑ์</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../personal/services/payment/Pages/index.html" class="link">โอนเงินและชำระเงิน</a></li>
-                              <li><a href="../../../../personal/services/cheque/Pages/index.html" class="link">เช็คและดราฟต์</a></li>
-                              <li><a href="../../../../personal/services/foreign-currency/Pages/index.html" class="link">เงินตราต่างประเทศ</a></li>
+                              <li><a href="/personal/services/payment/Pages/index.html" class="link">โอนเงินและชำระเงิน</a></li>
+                              <li><a href="/personal/services/cheque/Pages/index.html" class="link">เช็คและดราฟต์</a></li>
+                              <li><a href="/personal/services/foreign-currency/Pages/index.html" class="link">เงินตราต่างประเทศ</a></li>
                             </ul>
                           </div>
                         </div>
@@ -845,7 +845,7 @@
                           <div class="menu-inner">
                             <h3 class="heading">แนะนำ</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
                             </ul>
                           </div>
                         </div>
@@ -854,8 +854,8 @@
                           <div class="menu-inner">
                             <h3 class="heading">สมัคร</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../apply/Pages/index.html" class="link">สมัครบริการ</a></li>
-                              <li><a href="../../../../download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
+                              <li><a href="/apply/Pages/index.html" class="link">สมัครบริการ</a></li>
+                              <li><a href="/download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
                             </ul>
                           </div>
                         </div>
@@ -867,16 +867,16 @@
                       <div class="clearfix box-footer">
                         <div class="f-left link-affiliate">
                           <ul class="clearfix">
-                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
-                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
+                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
                           </ul>
                         </div>
                         <div class="f-right link-ft-contact">
                           <ul class="clearfix">
                             <li class="link-branch"><a href="https://www.kasikornbank.com/TH/Branch">ค้นหาสาขา</a></li>
-                            <li class="link-contact"><a href="../../../../contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
+                            <li class="link-contact"><a href="/contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
                             <li class="link-cc"><a href="https://www.kasikornbank.com/th/contact/Pages/k-contact-center.aspx">K-Contact Center</a></li>
                           </ul>
                         </div>
@@ -895,11 +895,11 @@
                           <div class="menu-inner">
                             <h3 class="heading">ผลิตภัณฑ์</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../personal/digital-banking/Pages/k-mobile-banking-plus.html" class="link">K PLUS</a></li>
-                              <li><a href="../../../../personal/digital-banking/Pages/k-cyber.html" class="link">K-Cyber</a></li>
-                              <li><a href="../../../../personal/digital-banking/Pages/mobile-top-up.html" class="link">K-Speed Top Up</a></li>
-                              <li><a href="../../../../personal/digital-banking/sms/Pages/index.html" class="link">บริการแจ้งความเคลื่อนไหวผ่านทาง SMS</a></li>
-                              <li><a href="../../../../personal/digital-banking/statement/Pages/index.html" class="link">บริการรับ Statement ทางอีเมล</a></li>
+                              <li><a href="/personal/digital-banking/Pages/k-mobile-banking-plus.html" class="link">K PLUS</a></li>
+                              <li><a href="/personal/digital-banking/Pages/k-cyber.html" class="link">K-Cyber</a></li>
+                              <li><a href="/personal/digital-banking/Pages/mobile-top-up.html" class="link">K-Speed Top Up</a></li>
+                              <li><a href="/personal/digital-banking/sms/Pages/index.html" class="link">บริการแจ้งความเคลื่อนไหวผ่านทาง SMS</a></li>
+                              <li><a href="/personal/digital-banking/statement/Pages/index.html" class="link">บริการรับ Statement ทางอีเมล</a></li>
                             </ul>
                           </div>
                         </div>
@@ -908,9 +908,9 @@
                           <div class="menu-inner">
                             <h3 class="heading">แนะนำ</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../promotion/Pages/index.html" class="link">สิทธิพิเศษ Reward PLUS</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">แนะนำวิธีใช้งาน QR OTP</a></li>
-                              <li><a href="../../../../faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
+                              <li><a href="/promotion/Pages/index.html" class="link">สิทธิพิเศษ Reward PLUS</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">แนะนำวิธีใช้งาน QR OTP</a></li>
+                              <li><a href="/faq/Pages/index.html" class="link">คำถามที่พบบ่อย</a></li>
                             </ul>
                           </div>
                         </div>
@@ -919,8 +919,8 @@
                           <div class="menu-inner">
                             <h3 class="heading">สมัคร</h3>
                             <ul class="link-list">
-                              <li><a href="../../../../apply/Pages/index.html" class="link">สมัครบริการ Digital Banking</a></li>
-                              <li><a href="../../../../download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
+                              <li><a href="/apply/Pages/index.html" class="link">สมัครบริการ Digital Banking</a></li>
+                              <li><a href="/download/Pages/index.html" class="link">ดาวน์โหลดเอกสารการสมัคร</a></li>
                             </ul>
                           </div>
                         </div>
@@ -932,16 +932,16 @@
                       <div class="clearfix box-footer">
                         <div class="f-left link-affiliate">
                           <ul class="clearfix">
-                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
-                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
-                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/private-banking" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/k-privatebanking.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-wisdom" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-wisdom.png" alt=""></a></li>
+                            <li><a href="https://www.kasikornbank.com/th/personal/the-premier" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/the-premier.png" alt=""></a></li>
+                            <li><a href="https://kasikornbank.com/MADHUB" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logoMADtran-01.png" alt=""></a></li>
                           </ul>
                         </div>
                         <div class="f-right link-ft-contact">
                           <ul class="clearfix">
                             <li class="link-branch"><a href="https://www.kasikornbank.com/TH/Branch">ค้นหาสาขา</a></li>
-                            <li class="link-contact"><a href="../../../../contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
+                            <li class="link-contact"><a href="/contact/Pages/index.html">แบบฟอร์มติดต่อ</a></li>
                             <li class="link-cc"><a href="https://www.kasikornbank.com/th/contact/Pages/k-contact-center.aspx">K-Contact Center</a></li>
                           </ul>
                         </div>
@@ -956,14 +956,14 @@
             <a href="javascript:void(0);" class="btn-dd-login"><span>เข้าสู่ระบบ</span></a>
             <div class="dropdown-list">
               <ul>
-                <li class="dropdown-item"><a href="../../../../k-online/k-cyber/Pages/index.html" target="_blank">K-Cyber</a></li>
-                <li class="dropdown-item"><a href="../../../../k-online/k-cyber-sme/Pages/index.html" target="_blank">K-Cyber for SME</a></li>
-                <li class="dropdown-item"><a href="../../../../k-online/k-corporate-connect/Pages/index.html" target="_blank">K-Corporate Connect</a></li>
+                <li class="dropdown-item"><a href="/k-online/k-cyber/Pages/index.html" target="_blank">K-Cyber</a></li>
+                <li class="dropdown-item"><a href="/k-online/k-cyber-sme/Pages/index.html" target="_blank">K-Cyber for SME</a></li>
+                <li class="dropdown-item"><a href="/k-online/k-corporate-connect/Pages/index.html" target="_blank">K-Corporate Connect</a></li>
               </ul>
             </div>
           </div>
           <div class="hidden-mobile sw-lang">
-            <a href="../../../../Pages/index.html" class="btn-sw-lang">TH</a>
+            <a href="/Pages/index.html" class="btn-sw-lang">TH</a>
           </div>
           <div class="hidden-desktop btn-menu-mobile">
             <a href="javascript:void(0);" class="btn-menu">
@@ -1068,7 +1068,9 @@
     </div><!-- end #popup-search -->
 
     <main class="loading">
-        <section class="section sc-bg-light-blue-gradient sc-product-detail">
+
+      <section class="section">
+        <div class="sc-bg-light-blue-gradient sc-product-detail">
           <!-- floating apply desktop -->
           <div class="sc-floating-apply">
             <div class="container">
@@ -1090,7 +1092,7 @@
           <div class="sc-floating-apply-m" data-auto-detection="true">
             <div class="container">
               <div class="sc-content">
-                <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/card.png" alt="">
+                <img src="/SiteCollectionDocuments/kcc/onesiam/img/card.png" alt="">
                 <p class="display-7"><strong>บัตรเครดิต<br/>กสิกรไทย-ช้อปปี้</strong></p>
                 <div class="action">
                   <a href="#apply" class="btn btn-gradient link-scroll pxtm-click-floatingApply" title="fixed nav mobile - สมัครบัตร">สมัครบัตร</a>
@@ -1100,20 +1102,20 @@
           </div>
             
           <div class="product-details">
-            
+           
             <section id="product-hero" class="section sc-product-hero product-detail-hl fx-section" data-dl-section="product-hero">
               <div class="image a-center tw-hidden md:tw-block"">
-                <img class="lazy" src="../../../../SiteCollectionDocuments/kcc/onesiam/img/hero/banner-desktop.png" alt="">
+                <img class="lazy" src="/SiteCollectionDocuments/kcc/onesiam/img/hero/banner-desktop.png" alt="">
               </div>
               <div class="cards tw-block md:tw-hidden">
                 <div class="card" data-card-index="0">
-                  <img class="lazy" src="../../../../SiteCollectionDocuments/kcc/onesiam/img/hero/banner-black.png" alt="">
+                  <img class="lazy" src="/SiteCollectionDocuments/kcc/onesiam/img/hero/banner-black.png" alt="">
                 </div>
                 <div class="card" data-card-index="1">
-                  <img class="lazy" src="../../../../SiteCollectionDocuments/kcc/onesiam/img/hero/banner-silver-brown.png" alt="">
+                  <img class="lazy" src="/SiteCollectionDocuments/kcc/onesiam/img/hero/banner-silver-brown.png" alt="">
                 </div>
                 <div class="card" data-card-index="2">
-                  <img class="lazy" src="../../../../SiteCollectionDocuments/kcc/onesiam/img/hero/banner-silver-mix.png" alt="">
+                  <img class="lazy" src="/SiteCollectionDocuments/kcc/onesiam/img/hero/banner-silver-mix.png" alt="">
                 </div>
               </div>
               <div class="detail mt-30">
@@ -1136,9 +1138,9 @@
                       <div class="cardTab__wrap">
 
                         <a href="#" class="cardTab__link tw-block">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/cards/icon-check.png" alt="Icon check"
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/icon-check.png" alt="Icon check"
                           class="cardTab__icon">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/cards/card1-active.png" class="cardTab__img tw-block"
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/card1-active.png" class="cardTab__img tw-block"
                           alt="Card Active 1">
                         </div>
                         <h3 class="cardTab__title">บัตรอินฟินิท</h3>
@@ -1147,9 +1149,9 @@
                     <div class="cardTab__item tw-w-1/3" id="2">
                       <a href="#" class="cardTab__link tw-block">
                         <div class="cardTab__wrap">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/cards/icon-check.png" alt="Icon check"
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/icon-check.png" alt="Icon check"
                             class="cardTab__icon">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/cards/card2-active.png" class="cardTab__img tw-block"
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/card2-active.png" class="cardTab__img tw-block"
                             alt="Card Active 2">
                         </div>
                         <h3 class="cardTab__title">บัตรซิกเนเจอร์</h3>
@@ -1159,9 +1161,9 @@
                       <a href="#" class="cardTab__link tw-block">
                         <div class="cardTab__wrap">
 
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/cards/icon-check.png" alt="Icon check"
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/icon-check.png" alt="Icon check"
                         class="cardTab__icon active">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/cards/card3-active.png" class="cardTab__img w-block"
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/card3-active.png" class="cardTab__img w-block"
                         alt="Card Active 3">
                       </div>
                       <h3 class="cardTab__title">บัตรแพลทินัม</h3>
@@ -1173,7 +1175,7 @@
                   <div class="cards cardWrap cardWrap-1">
                     <div class="card">
                       <div class="image">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/1.jpg" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/1.jpg" alt="">
                       </div>
                       <div class="caption">
                         <h3 class="title">รับทั้ง KBank Reward Points & Shopee Coins</h3>
@@ -1189,7 +1191,7 @@
                   
                     <div class="card">
                       <div class="image">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/2.jpg" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/2.jpg" alt="">
                       </div>
                       <div class="caption">
                         <h3 class="title">รับ Shopee Coins สูงสุด 999 Coins</h3>
@@ -1202,7 +1204,7 @@
                     
                     <div class="card">
                       <div class="image">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                       </div>
                       <div class="caption">
                         <h3 class="title">ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1215,7 +1217,7 @@
                     
                     <div class="card">
                       <div class="image">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                       </div>
                       <div class="caption">
                         <h3 class="title">ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1228,7 +1230,7 @@
                     
                     <div class="card">
                       <div class="image">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                       </div>
                       <div class="caption">
                         <h3 class="title">ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1243,7 +1245,7 @@
                     <div class="cards cardWrap cardWrap-2">
                       <div class="card">
                         <div class="image">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/1.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/1.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#2 รับทั้ง KBank Reward Points & Shopee Coins</h3>
@@ -1259,7 +1261,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/2.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/2.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#2 รับ Shopee Coins สูงสุด 999 Coins</h3>
@@ -1273,7 +1275,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#2 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1286,7 +1288,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#2 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1299,7 +1301,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#2 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1315,7 +1317,7 @@
                     <div class="cards cardWrap cardWrap-3 cardWrap--active">
                       <div class="card">
                         <div class="image">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/1.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/1.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#3 รับทั้ง KBank Reward Points & Shopee Coins</h3>
@@ -1331,7 +1333,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/2.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/2.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#3 รับ Shopee Coins สูงสุด 999 Coins</h3>
@@ -1345,7 +1347,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#3 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1358,7 +1360,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#3 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1371,7 +1373,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#3 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1459,16 +1461,16 @@
 
                   <div class="cards">
                     <div class="card" data-card-index="0">
-                      <img src="../../../../SiteCollectionDocuments/kcc/img/benefit-img-slider-01.png" alt="">
+                      <img src="/SiteCollectionDocuments/kcc/img/benefit-img-slider-01.png" alt="">
                       <h3>Free Fee!</h3>
                       <p>สมัครฟรี..ค่าธรรมเนียมแรกเข้า ฟรี..ค่าธรรมเนียม ปีต่อๆไป เพียงมียอดใช้จ่าย 12 ครั้ง / ปี</p>
                       <div class="action">
-                        <a href="../../../../SiteCollectionDocuments/kcc/doc/credit-card-interest-rates.pdf" target="_blank" class="link more pxtm-click-linkClick" title="benefits - ตารางค่าธรรมเนียม">ตารางค่าธรรมเนียม</a>
+                        <a href="/SiteCollectionDocuments/kcc/doc/credit-card-interest-rates.pdf" target="_blank" class="link more pxtm-click-linkClick" title="benefits - ตารางค่าธรรมเนียม">ตารางค่าธรรมเนียม</a>
                       </div>
                     </div>
 
                     <div class="card" data-card-index="1">
-                      <img src="../../../../SiteCollectionDocuments/kcc/img/benefit-img-slider-02.png" alt="">
+                      <img src="/SiteCollectionDocuments/kcc/img/benefit-img-slider-02.png" alt="">
                       <h3>แบ่งจ่ายได้</h3>
                       <p>เริ่มต้น 0% ที่ร้านค้าชั้นนำ นานสูงสุด 10 เดือน หรือผ่าน K+ เริ่มต้น 0.65% ต่อเดือน</p>
                       <div class="action">
@@ -1478,7 +1480,7 @@
                     </div>
 
                     <div class="card" data-card-index="2">
-                      <img src="../../../../SiteCollectionDocuments/kcc/img/benefit-img-slider-06.png" alt="">
+                      <img src="/SiteCollectionDocuments/kcc/img/benefit-img-slider-06.png" alt="">
                       <h3>Shop Online</h3>
                       <p>สะดวก ปลอดภัย กับบริการ Verified by Visa, MasterCard SecureCode, J/Secure</p>
                       <div class="action">
@@ -1487,7 +1489,7 @@
                     </div>
 
                     <div class="card" data-card-index="3">
-                      <img src="../../../../SiteCollectionDocuments/kcc/img/benefit-img-slider-03.png" alt="">
+                      <img src="/SiteCollectionDocuments/kcc/img/benefit-img-slider-03.png" alt="">
                       <h3>สมัครง่าย</h3>
                       <p>ใครๆ ก็สมัครได้ จะมีเงินเดือน หรือมีเงินฝากได้หมด</p>
                       <div class="action">
@@ -1497,7 +1499,7 @@
                     </div>
 
                     <div class="card" data-card-index="4">
-                      <img src="../../../../SiteCollectionDocuments/kcc/img/benefit-img-slider-05.png" alt="">
+                      <img src="/SiteCollectionDocuments/kcc/img/benefit-img-slider-05.png" alt="">
                       <h3>payWave</h3>
                       <p>จ่ายง่าย ไม่ต้องรูด ไม่ต้องเซ็น สะดวกสบายเหนือใคร แค่แตะบัตร</p>
                       <div class="action">
@@ -1506,7 +1508,7 @@
                     </div>
 
                     <div class="card" data-card-index="5">
-                      <img src="../../../../SiteCollectionDocuments/kcc/img/benefit-img-slider-04.png" alt="">
+                      <img src="/SiteCollectionDocuments/kcc/img/benefit-img-slider-04.png" alt="">
                       <h3>มั่นใจ สะดวกทุกการใช้จ่าย</h3>
                       <p>กับบริการบน K PLUS ทั้งแจ้งเตือน..เปิดบัตร เช็คยอด เช็คหรือแลกคะแนนกดเงินไม่ต้องใช้บัตร! ง่ายแค่ปลายนิ้ว</p>
                       <div class="action">
@@ -1529,7 +1531,7 @@
 
                   <style scoped>
                     .videoPoster {
-                      background-image: url(../../../../SiteCollectionDocuments/kcc/img/shopee-4.jpeg);
+                      background-image: url(/SiteCollectionDocuments/kcc/img/shopee-4.jpeg);
                       background-position: center;
                     }
                   </style>
@@ -1540,7 +1542,7 @@
                     <div class="videoPoster js-videoPoster" id="youtube-embed-poster"></div>
                     <div class="video-title">
                       <div class="icon js-videoPoster pxtm-click-playVideo" id="youtube-embed-playicon" title="vdo อีกระดับของความสุขที่มากกว่า" onclick="videoClick(this);">
-                        <img src="../../../../SiteCollectionDocuments/kcc/img/play-vdo.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/img/play-vdo.png" alt="">
                       </div>
                     </div>
                   </div>
@@ -1636,24 +1638,24 @@
                                 <select class="select-hv-img" name="" id="">
                                   <option value="" selected disabled>กรุณาเลือกบัตร</option>
                                   <option value="" disabled>รายได้ตั้งแต่ 70,000 ต่อเดือนขึ้นไป</option>
-                                  <option value="บัตรเครดิตวันสยามซิกเนเจอร์" data-image="../../../../SiteCollectionDocuments/kcc/img/card/one-siam-card.jpg">บัตรเครดิตวันสยามซิกเนเจอร์</option>
-                                  <option value="บัตรเครดิตเดอะแพสชั่นกสิกรไทย" data-image="../../../../SiteCollectionDocuments/kcc/img/card/passion-card.jpg">บัตรเครดิตเดอะแพสชั่นกสิกรไทย</option>
+                                  <option value="บัตรเครดิตวันสยามซิกเนเจอร์" data-image="/SiteCollectionDocuments/kcc/img/card/one-siam-card.jpg">บัตรเครดิตวันสยามซิกเนเจอร์</option>
+                                  <option value="บัตรเครดิตเดอะแพสชั่นกสิกรไทย" data-image="/SiteCollectionDocuments/kcc/img/card/passion-card.jpg">บัตรเครดิตเดอะแพสชั่นกสิกรไทย</option>
                                   <option value="" disabled>รายได้ตั้งแต่ 15,000 บาท ต่อเดือนขึ้นไป</option>
-                                  <option value="บัตรเครดิตกสิกรไทย-ช้อปปี้" data-image="../../../../SiteCollectionDocuments/kcc/img/card/shopee-card.jpg">บัตรเครดิตกสิกรไทย-ช้อปปี้</option>
-                                  <option value="บัตรพีทีทีบลูเครดิตการ์ด" data-image="../../../../SiteCollectionDocuments/kcc/img/card/ptt-card.jpg">บัตรพีทีทีบลูเครดิตการ์ด</option>
-                                  <option value="บัตรเครดิตวีซ่า แพลทินัมกสิกรไทย" data-image="../../../../SiteCollectionDocuments/kcc/img/card/visa-card.jpg">บัตรเครดิตวีซ่า แพลทินัมกสิกรไทย</option>
-                                  <option value="บัตรเครดิตวันสยาม-กสิกรไทย" data-image="../../../../SiteCollectionDocuments/kcc/img/card/one-siam-card.jpg">บัตรเครดิตวันสยาม-กสิกรไทย</option>
-                                  <option value="บัตรเครดิตเจซีบีแพลทินัม" data-image="../../../../SiteCollectionDocuments/kcc/img/card/jcb-card.jpg">บัตรเครดิตเจซีบีแพลทินัม</option>
-                                  <option value="บัตรเครดิตร่วมคิง เพาเวอร์-กสิกรไทย" data-image="../../../../SiteCollectionDocuments/kcc/img/card/king-power-card.jpg">บัตรเครดิตร่วมคิง เพาเวอร์-กสิกรไทย</option>
-                                  <option value="บัตรเครดิตร่วมกรุงเทพดุสิตเวชการ-กสิกรไทย" data-image="../../../../SiteCollectionDocuments/kcc/img/card/bdms-card.jpg">บัตรเครดิตร่วมกรุงเทพดุสิตเวชการ-กสิกรไทย</option>
-                                  <option value="บัตรเครดิตร่วมแอมเวย์ - กสิกรไทย" data-image="../../../../SiteCollectionDocuments/kcc/img/card/amway-card.jpg">บัตรเครดิตร่วมแอมเวย์ - กสิกรไทย</option>
-                                  <option value="บัตรเครดิตร่วม CGA / SFT - กสิกรไทย" data-image="../../../../SiteCollectionDocuments/kcc/img/card/cga-sft-card.jpg">บัตรเครดิตร่วม CGA / SFT - กสิกรไทย</option>
-                                  <option value="บัตรเครดิตมาสเตอร์การ์ดไทเทเนียมกสิกรไทย" data-image="../../../../SiteCollectionDocuments/kcc/img/card/titanium-card.jpg">บัตรเครดิตมาสเตอร์การ์ดไทเทเนียมกสิกรไทย</option>
-                                  <option value="บัตรเครดิตเคเวฟกสิกรไทย" data-image="../../../../SiteCollectionDocuments/kcc/img/card/k-wave-card.jpg">บัตรเครดิตเคเวฟกสิกรไทย</option>
-                                  <option value="บัตรสมาชิกเครดิตร่วมหอการค้าไทย และสภาหอการค้าแห่งประเทศไทย-กสิกรไทย" data-image="../../../../SiteCollectionDocuments/kcc/img/card/thai-cc-card.jpg">บัตรสมาชิกเครดิตร่วมหอการค้าไทย และสภาหอการค้าแห่งประเทศไทย-กสิกรไทย</option>
-                                  <option value="บัตรเครดิตยูเนี่ยนเพย์กสิกรไทย" data-image="../../../../SiteCollectionDocuments/kcc/img/card/union-card.jpg">บัตรเครดิตยูเนี่ยนเพย์กสิกรไทย</option>
-                                  <option value="บัตรเครดิต Home Smile Club" data-image="../../../../SiteCollectionDocuments/kcc/img/card/k-home-smile-card.jpg">บัตรเครดิต Home Smile Club</option>
-                                  <option value="บัตรเมืองไทยสไมล์เครดิตการ์ด" data-image="../../../../SiteCollectionDocuments/kcc/img/card/mueng-thai-smile-club-card.jpg">บัตรเมืองไทยสไมล์เครดิตการ์ด</option>
+                                  <option value="บัตรเครดิตกสิกรไทย-ช้อปปี้" data-image="/SiteCollectionDocuments/kcc/img/card/shopee-card.jpg">บัตรเครดิตกสิกรไทย-ช้อปปี้</option>
+                                  <option value="บัตรพีทีทีบลูเครดิตการ์ด" data-image="/SiteCollectionDocuments/kcc/img/card/ptt-card.jpg">บัตรพีทีทีบลูเครดิตการ์ด</option>
+                                  <option value="บัตรเครดิตวีซ่า แพลทินัมกสิกรไทย" data-image="/SiteCollectionDocuments/kcc/img/card/visa-card.jpg">บัตรเครดิตวีซ่า แพลทินัมกสิกรไทย</option>
+                                  <option value="บัตรเครดิตวันสยาม-กสิกรไทย" data-image="/SiteCollectionDocuments/kcc/img/card/one-siam-card.jpg">บัตรเครดิตวันสยาม-กสิกรไทย</option>
+                                  <option value="บัตรเครดิตเจซีบีแพลทินัม" data-image="/SiteCollectionDocuments/kcc/img/card/jcb-card.jpg">บัตรเครดิตเจซีบีแพลทินัม</option>
+                                  <option value="บัตรเครดิตร่วมคิง เพาเวอร์-กสิกรไทย" data-image="/SiteCollectionDocuments/kcc/img/card/king-power-card.jpg">บัตรเครดิตร่วมคิง เพาเวอร์-กสิกรไทย</option>
+                                  <option value="บัตรเครดิตร่วมกรุงเทพดุสิตเวชการ-กสิกรไทย" data-image="/SiteCollectionDocuments/kcc/img/card/bdms-card.jpg">บัตรเครดิตร่วมกรุงเทพดุสิตเวชการ-กสิกรไทย</option>
+                                  <option value="บัตรเครดิตร่วมแอมเวย์ - กสิกรไทย" data-image="/SiteCollectionDocuments/kcc/img/card/amway-card.jpg">บัตรเครดิตร่วมแอมเวย์ - กสิกรไทย</option>
+                                  <option value="บัตรเครดิตร่วม CGA / SFT - กสิกรไทย" data-image="/SiteCollectionDocuments/kcc/img/card/cga-sft-card.jpg">บัตรเครดิตร่วม CGA / SFT - กสิกรไทย</option>
+                                  <option value="บัตรเครดิตมาสเตอร์การ์ดไทเทเนียมกสิกรไทย" data-image="/SiteCollectionDocuments/kcc/img/card/titanium-card.jpg">บัตรเครดิตมาสเตอร์การ์ดไทเทเนียมกสิกรไทย</option>
+                                  <option value="บัตรเครดิตเคเวฟกสิกรไทย" data-image="/SiteCollectionDocuments/kcc/img/card/k-wave-card.jpg">บัตรเครดิตเคเวฟกสิกรไทย</option>
+                                  <option value="บัตรสมาชิกเครดิตร่วมหอการค้าไทย และสภาหอการค้าแห่งประเทศไทย-กสิกรไทย" data-image="/SiteCollectionDocuments/kcc/img/card/thai-cc-card.jpg">บัตรสมาชิกเครดิตร่วมหอการค้าไทย และสภาหอการค้าแห่งประเทศไทย-กสิกรไทย</option>
+                                  <option value="บัตรเครดิตยูเนี่ยนเพย์กสิกรไทย" data-image="/SiteCollectionDocuments/kcc/img/card/union-card.jpg">บัตรเครดิตยูเนี่ยนเพย์กสิกรไทย</option>
+                                  <option value="บัตรเครดิต Home Smile Club" data-image="/SiteCollectionDocuments/kcc/img/card/k-home-smile-card.jpg">บัตรเครดิต Home Smile Club</option>
+                                  <option value="บัตรเมืองไทยสไมล์เครดิตการ์ด" data-image="/SiteCollectionDocuments/kcc/img/card/mueng-thai-smile-club-card.jpg">บัตรเมืองไทยสไมล์เครดิตการ์ด</option>
                                   <option value="ให้เจ้าหน้าที่ติดต่อกลับ">ให้เจ้าหน้าที่ติดต่อกลับ</option>
                                 </select>
                               </div>
@@ -1750,13 +1752,13 @@
                   <div class="cards sc-bg-blue-gradient">
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/1.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/1.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">K PLUS Service</h2>
                         <p class="display-4 c-white"><strong>เปิดใช้บริการบัตรเครดิต</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/1.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/1.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/add-credit-card.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม K PLUS Service">รายละเอียดเพิ่มเติม</a>
@@ -1767,13 +1769,13 @@
 
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/2.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/2.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">Bill Payment</h2>
                         <p class="display-4 c-white"><strong>ตรวจสอบยอดใช้จ่ายบัตรเครดิต</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/2.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/2.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/detail-credit-card.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม Bill Payment">รายละเอียดเพิ่มเติม</a>
@@ -1784,13 +1786,13 @@
 
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/3.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/3.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">K Statements</h2>
                         <p class="display-4 c-white"><strong>ตรวจสอบใบแจ้งยอดบัญชีบัตรเครดิต</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/3.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/3.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/Statement.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม K Statements">รายละเอียดเพิ่มเติม</a>
@@ -1801,13 +1803,13 @@
 
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/4.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/4.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">Change Limit</h2>
                         <p class="display-4 c-white"><strong>ขอเพิ่มวงเงินชั่วคราว</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/4.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/4.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/Change-Limit.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม Change Limit">รายละเอียดเพิ่มเติม</a>
@@ -1818,13 +1820,13 @@
 
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/5.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/5.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">Smart Pay by K PLUS</h2>
                         <p class="display-4 c-white"><strong>บริการแบ่งจ่ายรายเดือน</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/5.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/5.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/Installment-payment.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม Smart Pay by K PLUS">รายละเอียดเพิ่มเติม</a>
@@ -1835,13 +1837,13 @@
 
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/6.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/6.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">Smart Cash by K PLUS</h2>
                         <p class="display-4 c-white"><strong>บริการเงินด่วน</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="../../../../SiteCollectionDocuments/kcc/onesiam/img/kplus-services/6.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/6.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/Quick-Money.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม Smart Cash by K PLUS">รายละเอียดเพิ่มเติม</a>
@@ -1895,7 +1897,7 @@
                       <div class="accordion-title pxtm-click-toggleDetail">Shopee Username ดูตรงไหน ?</div>
                       <div class="accordion-content">
                         <div class="wrap">
-                          <a href="../../../../SiteCollectionDocuments/kcc/onesiam/img/faqs/KBankShopee-A4_CO.jpg"
+                          <a href="/SiteCollectionDocuments/kcc/onesiam/img/faqs/KBankShopee-A4_CO.jpg"
                             class="link external open-popup-image pxtm-click-openPopup" title="faqs - วิธีการดู Shopee Username">วิธีการดู Shopee
                             Username</a>
                         </div>
@@ -1942,9 +1944,9 @@
               </div>
             </section>
           </div>
-        </section>
+        </div>
         
-        <section id="related-card" class="section sc-bg-gray sc-relate-card">
+        <div id="related-card" class=" sc-bg-gray sc-relate-card">
             <div class="sc-inner no-bt">
                 <div class="sc-heading a-center">
                     <h2><small>บัตรอื่นที่คุณอาจสนใจ</small></h2>
@@ -1959,7 +1961,7 @@
                             </ul>
                             <div class="image">
                                 <a href="#">
-                                    <img src="../../../../SiteCollectionDocuments/kcc/img/card/shopee-card.jpg" alt="">
+                                    <img src="/SiteCollectionDocuments/kcc/img/card/shopee-card.jpg" alt="">
                                 </a>
                             </div>
                             <div class="caption">
@@ -1985,7 +1987,7 @@
                             </ul>
                             <div class="image">
                                 <a href="#">
-                                    <img src="../../../../SiteCollectionDocuments/kcc/img/card/passion-card.jpg" alt="">
+                                    <img src="/SiteCollectionDocuments/kcc/img/card/passion-card.jpg" alt="">
                                 </a>
                             </div>
                             <div class="caption">
@@ -2011,7 +2013,7 @@
                             </ul>
                             <div class="image">
                                 <a href="#">
-                                    <img src="../../../../SiteCollectionDocuments/kcc/img/card/jcb-card.jpg" alt="">
+                                    <img src="/SiteCollectionDocuments/kcc/img/card/jcb-card.jpg" alt="">
                                 </a>
                             </div>
                             <div class="caption">
@@ -2035,7 +2037,7 @@
                             </ul>
                             <div class="image">
                                 <a href="#">
-                                    <img src="../../../../SiteCollectionDocuments/kcc/img/card/visa-card.jpg" alt="">
+                                    <img src="/SiteCollectionDocuments/kcc/img/card/visa-card.jpg" alt="">
                                 </a>
                             </div>
                             <div class="caption">
@@ -2058,9 +2060,9 @@
                     <div class="swiper-button-prev"></div>
                 </div>
             </div>
-        </section>
+        </div>
         
-        <section class="section sc-bottom-bars">
+        <div class=" sc-bottom-bars">
             <div class="container">
                 <div class="bottom-bars">
                     <div class="list">
@@ -2074,7 +2076,8 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+      </section>
         
     </main>
 
@@ -2092,12 +2095,12 @@
                             <div class="box-ft-links">
                                 <h3 class="heading"><a href="https://kasikornbank.com/th/about">เกี่ยวกับเรา</a></h3>
                                 <ul class="link-list">
-                                    <li class="link"><a href="../../../../about/Pages/company-background.html">ประวัติธนาคาร</a></li>
+                                    <li class="link"><a href="/about/Pages/company-background.html">ประวัติธนาคาร</a></li>
                                     <li class="link"><a href="http://www.kasikornbank.com/TH/Social-Activities/Pages/index.aspx" target="_blank">การพัฒนาอย่างยั่งยืน</a></li>
-                                    <li class="link"><a href="../../../../news/Pages/index.html">ข่าวสารและกิจกรรม</a></li>
+                                    <li class="link"><a href="/news/Pages/index.html">ข่าวสารและกิจกรรม</a></li>
                                     <li class="link"><a href="https://kasikornbank.com/th/announcement/">ประกาศธนาคาร</a></li>
-                                    <li class="link"><a href="../../../../holidays/Pages/index.html">วันหยุดธนาคาร</a></li>
-                                    <li class="link"><a href="../../../../careers/Pages/index.html">สมัครงานและทุน</a></li>
+                                    <li class="link"><a href="/holidays/Pages/index.html">วันหยุดธนาคาร</a></li>
+                                    <li class="link"><a href="/careers/Pages/index.html">สมัครงานและทุน</a></li>
                                     <li class="link"><a href="https://kasikornbank.com/th/PropertyForSale/">ทรัพย์สินรอการขาย</a></li>
                                 </ul>
                             </div>
@@ -2107,15 +2110,15 @@
                             <div class="box-ft-links">
                                 <h3 class="heading">แนะนำ</h3>
                                 <ul class="link-list">
-                                    <li class="link"><a href="../../../../faq/Pages/index.html">คำถามที่พบบ่อย</a></li>
-                                    <li class="link"><a href="../../../../e-service-transaction/Pages/index.html">พิมพ์เอกสารธุรกรรม E-Service</a></li>
+                                    <li class="link"><a href="/faq/Pages/index.html">คำถามที่พบบ่อย</a></li>
+                                    <li class="link"><a href="/e-service-transaction/Pages/index.html">พิมพ์เอกสารธุรกรรม E-Service</a></li>
                                 </ul>
                             </div>
                             <div class="box-ft-links">
                                 <h3 class="heading">Digital Banking</h3>
                                 <ul class="link-list">
-                                    <li class="link"><a href="../../../../personal/digital-banking/Pages/k-mobile-banking-plus.html">K PLUS</a></li>
-                                    <li class="link"><a href="../../../../personal/digital-banking/Pages/k-cyber.html">K-Cyber</a></li>
+                                    <li class="link"><a href="/personal/digital-banking/Pages/k-mobile-banking-plus.html">K PLUS</a></li>
+                                    <li class="link"><a href="/personal/digital-banking/Pages/k-cyber.html">K-Cyber</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -2157,23 +2160,23 @@
                 <div class="row">
                     <div class="col-md-6 link-affiliate hidden-mobile">
                         <ul class="clearfix">
-                            <li class="link-k-asset"><a href="http://www.kasikornasset.com/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-01.png" alt="K-Asset"></a></li>
-                            <li class="link-k-research"><a href="https://www.kasikornresearch.com/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-02.png" alt="K-Research"></a></li>
-                            <li class="link-k-securities"><a href="http://www.kasikornsecurities.com/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-03.png" alt="K-Securities"></a></li>
-                            <li class="link-k-leasing"><a href="http://www.kasikornleasing.com/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-04.png" alt="K-Leasing"></a></li>
-                            <li class="link-k-fe"><a href="http://www.kasikornfactory-equipment.com/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-05.png" alt="K-F&E"></a></li>
-                            <li class="link-kbtg"><a href="http://www.kbtg.tech/" target="_blank"><img src="../../../../SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-06.png" alt="KBTG"></a></li>
+                            <li class="link-k-asset"><a href="http://www.kasikornasset.com/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-01.png" alt="K-Asset"></a></li>
+                            <li class="link-k-research"><a href="https://www.kasikornresearch.com/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-02.png" alt="K-Research"></a></li>
+                            <li class="link-k-securities"><a href="http://www.kasikornsecurities.com/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-03.png" alt="K-Securities"></a></li>
+                            <li class="link-k-leasing"><a href="http://www.kasikornleasing.com/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-04.png" alt="K-Leasing"></a></li>
+                            <li class="link-k-fe"><a href="http://www.kasikornfactory-equipment.com/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-05.png" alt="K-F&E"></a></li>
+                            <li class="link-kbtg"><a href="http://www.kbtg.tech/" target="_blank"><img src="/SiteCollectionDocuments/header-footer/img/logo/logo-affiliate-06.png" alt="KBTG"></a></li>
                         </ul>
                     </div>
                     <div class="col-md-6 links-utilities">
                         <ul class="clearfix">
-                            <li><a href="../../../../privacy-policy/Pages/index.html">นโยบายความเป็นส่วนตัว</a></li>
-                            <li><a href="../../../../disclaimer/Pages/index.html">คำสงวนสิทธิ์</a></li>
-                            <li><a href="../../../../sitemap/Pages/index.html">แผนผังเว็บไซต์</a></li>
+                            <li><a href="/privacy-policy/Pages/index.html">นโยบายความเป็นส่วนตัว</a></li>
+                            <li><a href="/disclaimer/Pages/index.html">คำสงวนสิทธิ์</a></li>
+                            <li><a href="/sitemap/Pages/index.html">แผนผังเว็บไซต์</a></li>
                         </ul>
                     </div>
                     <div class="col-xs-12 footer-slogan">
-                        <p class="text-slogan"><img src="../../../../SiteCollectionDocuments/header-footer/img/text-slogan.png" alt="บริการทุกระดับประทับใจ"></p>
+                        <p class="text-slogan"><img src="/SiteCollectionDocuments/header-footer/img/text-slogan.png" alt="บริการทุกระดับประทับใจ"></p>
                     </div>
                 </div>
                 <a href="#" onclick="scrollToTop()" class="btn-to-top"><span>top</span></a>
@@ -2206,7 +2209,7 @@
         <div class="row image-lists">
           <div class="col-md-6 image-list">
             <div class="image">
-              <img src="../../../../SiteCollectionDocuments/kcc/img/smartpay-phone-img-01.png" alt=""/>
+              <img src="/SiteCollectionDocuments/kcc/img/smartpay-phone-img-01.png" alt=""/>
             </div>
             <div class="caption">
               <h3 class="h4">เลือก</h3>
@@ -2215,7 +2218,7 @@
           </div>
           <div class="col-md-6 image-list">
             <div class="image">
-              <img src="../../../../SiteCollectionDocuments/kcc/img/smartpay-phone-img-02.png" alt=""/>
+              <img src="/SiteCollectionDocuments/kcc/img/smartpay-phone-img-02.png" alt=""/>
             </div>
             <div class="caption">
               <h3 class="h4">ทำเองได้ง่ายๆ บน K PLUS</h3>
@@ -2224,7 +2227,7 @@
           </div>
           <div class="col-md-6 image-list">
             <div class="image">
-              <img src="../../../../SiteCollectionDocuments/kcc/img/smartpay-phone-img-03.png" alt=""/>
+              <img src="/SiteCollectionDocuments/kcc/img/smartpay-phone-img-03.png" alt=""/>
             </div>
             <div class="caption">
               <h3 class="h4">โทร</h3>
@@ -2233,7 +2236,7 @@
           </div>
           <div class="col-md-6 image-list">
             <div class="image">
-              <img src="../../../../SiteCollectionDocuments/kcc/img/smartpay-phone-img-04.png" alt=""/>
+              <img src="/SiteCollectionDocuments/kcc/img/smartpay-phone-img-04.png" alt=""/>
             </div>
             <div class="caption">
               <h3 class="h4">แบ่งจ่าย</h3>
@@ -2322,7 +2325,7 @@
         <p class="mt-20">สามารถใช้บัตรได้ ณ ร้านค้าที่มีสัญลักษณ์ payWave</p>
         <div class="popup-image">
           <div class="img-paywave">
-            <img src="../../../../SiteCollectionDocuments/kcc/img/paywave-img-01.png" alt="">
+            <img src="/SiteCollectionDocuments/kcc/img/paywave-img-01.png" alt="">
           </div>
         </div>
         <p><strong>วิธีการชำระด้วยวิธีการแตะบัตร</strong></p>
@@ -2365,45 +2368,46 @@
   </div><!-- end #page -->
 
   <!--[if lt IE 9]>
-    <script src="../../../../SiteCollectionDocuments/assets/js/utility/html5shiv.min.js"></script>
-    <script type="text/javascript" src="../../../../SiteCollectionDocuments/assets/js/utility/selectivizr-min.js"></script>
-    <script type="text/javascript" src="../../../../SiteCollectionDocuments/assets/js/utility/respond.min.js"></script>
+    <script src="/SiteCollectionDocuments/assets/js/utility/html5shiv.min.js"></script>
+    <script type="text/javascript" src="/SiteCollectionDocuments/assets/js/utility/selectivizr-min.js"></script>
+    <script type="text/javascript" src="/SiteCollectionDocuments/assets/js/utility/respond.min.js"></script>
   <![endif]-->
 
   <!-- JS -->
   
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/js/library/jquery-1.12.1.min.js"></script>
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/js/library/jquery.easing.1.3.min.js"></script>
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/assets/js/jquery/jquery.visible.min.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/js/library/jquery-1.12.1.min.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/js/library/jquery.easing.1.3.min.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/assets/js/jquery/jquery.visible.min.js"></script>
 
   <!-- JS for New Header & Footer : Start -->
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/header-footer/js/header-footer.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/header-footer/js/header-footer.js"></script>
   <!-- JS for New Header & Footer : END -->
 
   <!-- JS Library - START -->
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/js/library/matchMedia.min.js"></script>
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/js/library/matchMedia.addListener.min.js"></script>
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/js/library/enquire.min.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/js/library/matchMedia.min.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/js/library/matchMedia.addListener.min.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/js/library/enquire.min.js"></script>
   <!-- JS Library - END -->
   
   <!-- JS Plugin - START -->
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/plugin/swiper/swiper.js"></script>
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/plugin/slick/slick.js"></script>
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/plugin/select2/select2.min.js"></script>
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/plugin/msdropdown/msdropdown.js"></script>
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/plugin/matchheight/jquery.matchHeight-min.js"></script>
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/plugin/magnific-popup/jquery.magnific-popup.min.js"></script>
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/plugin/scrollbar/jquery.scrollbar.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/plugin/swiper/swiper.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/plugin/slick/slick.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/plugin/select2/select2.min.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/plugin/msdropdown/msdropdown.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/plugin/matchheight/jquery.matchHeight-min.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/plugin/magnific-popup/jquery.magnific-popup.min.js"></script>
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/plugin/scrollbar/jquery.scrollbar.js"></script>
   <!-- JS Plugin - END -->
   
   <!-- JS Page - START -->
-  <!-- <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/onesiam/js/anchor.js"></script> -->
-  <!-- <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/onesiam/js/yt-embed.js"></script> -->
-  <!-- <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/onesiam/js/theme-original.js"></script> -->
-  <!-- <script type="text/javascript" src="../../../../SiteCollectionDocuments/assets/js/garage/component-overflower.js"></script> -->
-  <!-- <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/onesiam/js/app-detail-renderer.js"></script> -->
-  <!-- <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/onesiam/js/shopee.js"></script> -->
-  <script type="text/javascript" src="../../../../SiteCollectionDocuments/kcc/onesiam/dist/bundle.min.js"></script>
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/js/anchor.js"></script> -->
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/js/yt-embed.js"></script> -->
+  
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/assets/js/garage/component-overflower.js"></script> -->
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/js/app-detail-renderer.js"></script> -->
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/js/shopee.js"></script> -->
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/js/theme-original.js"></script> -->
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/dist/bundle.min.js"></script>
 
   <!-- JS Page - END -->
   
