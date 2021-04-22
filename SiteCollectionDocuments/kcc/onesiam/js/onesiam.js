@@ -36,6 +36,7 @@ function setCardHeight() {
     actionHightest + 'px'
   );
 }
+document.querySelector('main').classList.add('loading');
 
 $(document).ready(function ($) {
   $('#page').addClass('theme-onesiam');
@@ -66,9 +67,11 @@ $(document).ready(function ($) {
       setCardHeight();
     });
 
-    const slickMain = $('.sc-special .cards').slick({
+    $('.sc-special .cards').slick({
       centerMode: true,
       centerPadding: '0px',
+      infinite: true,
+      dots: true,
       slidesToShow: 3,
       responsive: [
         {
@@ -134,17 +137,17 @@ $(document).ready(function ($) {
       $('.sc-floating-apply-m').hide();
 
       if (!isVisible) {
-        $('.sc-floating-apply').fadeIn();
+        $('.sc-floating-apply').fadeIn(0);
       } else {
-        $('.sc-floating-apply').fadeOut();
+        $('.sc-floating-apply').fadeOut(0);
       }
     } else {
       $('.sc-floating-apply').hide();
 
       if (!isVisible) {
-        $('.sc-floating-apply-m').fadeIn();
+        $('.sc-floating-apply-m').fadeIn(0);
       } else {
-        $('.sc-floating-apply-m').fadeOut();
+        $('.sc-floating-apply-m').fadeOut(0);
       }
     }
   });
@@ -197,4 +200,15 @@ $(document).ready(function ($) {
     autoFocusLast: false,
     fixedContentPos: true,
   });
+
+  // bottom bar tel link
+  setTimeout(function () {
+    $('.sc-bottom-bars .bottom-bars .list:last-child a').prop(
+      'href',
+      'tel:+6628888888'
+    );
+  }, 2000);
+
+  // uat shortcutnav
+  $('nav.shortcutnav').hide();
 });
