@@ -54,7 +54,7 @@ $(document).ready(function ($) {
   } catch (error) {
     console.log(error);
   }
-  
+
   try {
     $('.sc-special .cards').on('init', function (slick) {
       resetCardHeight();
@@ -90,7 +90,7 @@ $(document).ready(function ($) {
         },
       ],
     });
-    
+
     $('.sc-special .cardTab__item').on('click', function (e) {
       e.preventDefault();
       // $('.sc-special .cards').slick('unslick');
@@ -108,7 +108,6 @@ $(document).ready(function ($) {
       );
       $('.sc-special .cardWrap-' + $(this).attr('id')).slick('refresh');
     });
-
   } catch (error) {
     console.log('>', error);
   }
@@ -151,50 +150,6 @@ $(document).ready(function ($) {
   });
 
   $(window).trigger('scroll');
-
-  try {
-    $('.sc-benefits .cards').slick({
-      autoplay: true,
-      autoplaySpeed: 5000,
-      centerMode: true,
-      centerPadding: '0px',
-      dots: true,
-      slidesToShow: 3,
-      speed: 400,
-      responsive: [
-        {
-          breakpoint: 1025,
-          settings: {
-            centerPadding: '250px',
-            slidesToShow: 1,
-          },
-        },
-        {
-          breakpoint: 992,
-          settings: {
-            centerPadding: '150px',
-            slidesToShow: 1,
-          },
-        },
-        {
-          breakpoint: 768,
-          settings: {
-            centerPadding: '100px',
-            slidesToShow: 1,
-          },
-        },
-        {
-          breakpoint: 576,
-          settings: {
-            centerPadding: '20px',
-            slidesToShow: 1,
-          },
-        },
-      ],
-    });
-  } catch (error) {
-    console.log(error);
-  }
 
   $(window).resize(function (e) {
     $('.compn-overflow').each(function (e) {
