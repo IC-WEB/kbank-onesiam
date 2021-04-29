@@ -1,4 +1,4 @@
-# Kbank Onesiam
+# Kbank siamone
 
 It's build via GulpJS
 
@@ -15,10 +15,10 @@ yarn start #npm start
 Copy .html path and add after 
 
 ```python
-http://localhost:3336/TH/personal/CreditCard/Pages/onesiam.html
+http://localhost:3336/TH/personal/CreditCard/Pages/siamone.html
 ```
 
 ### Demo Site 
 ```bash
-http://demo.icweb.co.th/kbank-retrainer/TH/personal/CreditCard/Pages/onesiam.html
+http://demo.icweb.co.th/kbank-retrainer/TH/personal/CreditCard/Pages/siamone.html
 ```

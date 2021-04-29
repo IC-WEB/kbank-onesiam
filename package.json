@@ -1,5 +1,5 @@
 {
-  "name": "kbank-kcc-onesiam",
+  "name": "kbank-kcc-siamone",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -42,5 +42,5 @@
   "dependencies": {
     "tailwindcss": "^2.0.3"
   },
-  "repository": "https://github.com/IC-WEB/kbank-onesiam.git"
+  "repository": "https://github.com/IC-WEB/kbank-siamone.git"
 }

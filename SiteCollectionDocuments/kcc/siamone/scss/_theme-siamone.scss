@@ -1,0 +1,123 @@
+/* For Override */
+.header-top.kcc-active {
+	&:before {
+		opacity: 1;
+		background: #00A950;
+		background: -webkit-gradient(linear, left top, right top, from(#00A950), to(#61d699));
+		background: linear-gradient(90deg, #00A950 0%, #61d699 100%);
+		background-size: 100% auto;
+	}
+}
+main.loading {
+	opacity: 0;
+}
+.theme-siamone {
+	.sc-product-detail {
+		background: $blue-900;
+		background: rgb(34,66,87);
+    background: linear-gradient(180deg, rgba(34,66,87,1) 0%, rgba(1,41,66,1) 100%);
+		padding-top: 150px;
+		.product-details {			
+			background-color: transparent;
+			margin-top: 0;
+		}
+	}
+	#related-card {
+		h3.heading {
+			height: 75px;
+			a {
+				font-size: inherit;
+			}
+		}
+	}
+	.slick-arrow {
+		z-index: 98;
+	}
+	a.link {
+		color: #00A950;
+		text-decoration: underline;
+	}
+	a.link.more {
+		&:after {
+			content: "\e901";
+			font-family: iconkcc;
+			font-size: 9px;
+			display: inline-block;
+			margin-left: 7px;
+		}
+	}
+	a.link.external {
+		&:after {
+			content: "\e901";
+			font-family: iconkcc;
+			font-size: 0.8em;
+			display: inline-block;
+			margin-left: 7px;
+		}
+	}
+}
+.kcc.popup-content-style {
+	.mfp-content {
+		.content {
+			padding-right: 10px;
+			overflow-y: auto;
+			overflow-x: hidden;
+			.list {
+				margin-left: 17px;
+				li {
+					font-family: Helvetica, Arial, sans-serif;
+					font-weight: 400;
+					font-size: 16px;
+					strong {
+						font-weight: 700;
+					}
+				}
+			}
+		}
+		.image-list {
+			.caption {
+				h3 {
+					margin-bottom: 10px;
+				}
+			}
+		}
+	}
+}
+.popup-content-style {
+	.mfp-content {
+		.popup-modal-dismiss {
+			.ic {
+				margin-left: 0;
+			}
+		}
+	}
+}
+.videoIframePanel {
+	background-color: #333;
+	position: absolute;
+	z-index: 1;
+	width: 750px;
+	height: 375px;
+	
+	@include respond-to(tablet) {
+		height: 100%;
+	}
+}
+.videoPoster {
+	z-index: 2;
+}
+
+@media screen and (max-width: 1024px) {
+	.theme-siamone {
+		.sc-product-detail {
+			padding-top: 100px;
+		}
+	}
+}
+@media screen and (max-width: 991px) {
+	.kcc.popup-content-style {
+		.mfp-content {
+			padding: 30px 10px 30px 20px;
+		}
+	}
+}

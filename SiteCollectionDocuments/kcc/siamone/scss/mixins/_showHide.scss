@@ -1,0 +1,19 @@
+@mixin show {
+  display: block;
+  visibility: visible;
+}
+
+@mixin hide {
+  display: none;
+  visibility: hidden;
+}
+
+@mixin showFade {
+  opacity: 1;
+  display: block;  
+}
+
+@mixin hideFade {
+  opacity: 0;
+  display: none;
+}
