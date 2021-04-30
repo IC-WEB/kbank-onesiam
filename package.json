@@ -5,7 +5,7 @@
   "scripts": {
     "start": "gulp watch",
     "prod": "gulp",
-    "build:tailwindcss": "npx tailwindcss-cli@latest build -o ./SiteCollectionDocuments/promotion/xpc-202104/css/tailwind.css"
+    "build:tailwindcss": "npx tailwindcss-cli@latest build -o ./SiteCollectionDocuments/kcc/siamone/css/tailwind.css"
   },
   "author": "Bluenarysun <tee.emilond@gmail.com>",
   "license": "ISC",
