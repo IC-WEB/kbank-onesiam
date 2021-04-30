@@ -15,9 +15,7 @@
       border-bottom: solid 5px $green-900;
     }
 
-    .mfpContentV2 {
-      
-    }
+  
     .mfpContentV2 {
       &__text {
         font-size: 16px;
@@ -64,7 +62,7 @@
           padding-top: 40px;
           padding-bottom: 40px;
         }
-       
+        
   
         ul {
           margin: 20px 0 10px 1em;
@@ -78,6 +76,23 @@
             list-style: disc;
             font-family: Helvetica, Arial, sans-serif;
             font-weight: 400;
+          }
+        }
+
+        .link {
+          font-family : $font-helvetica;
+					color: $green-900;
+					text-decoration: underline;
+				}
+
+        .list-note {
+          margin-left: 0;
+          margin-right: 0;
+          .item {
+            font-size: 14px;
+            padding: 0;
+            margin-bottom: 2px !important;
+            color: #999999;
           }
         }
       }

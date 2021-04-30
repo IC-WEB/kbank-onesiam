@@ -120,8 +120,96 @@
 				}
       }
     }
+		.accordion-group {
+			border-bottom: 1px solid $gray-250;
+			padding-bottom: 20px;
+			&:last-child {
+				padding-bottom: 0;
+			}
+		}	
+		.accordion-revise {
+			.accordion-title-revise {
+				border-left: 0;
+				padding-top: 15px;				
+				padding-left: 0;
+				padding-bottom: 0;
+				font-weight: 500;
+				transition: color 0.3s ease;
+				font-size: 14px;
+				cursor: default;
+				position: relative;
+				z-index: 0;
+
+				&.active{
+					color: $gray-800;
+					&:after {
+						-webkit-transform: rotate(-90deg);
+						-moz-transform: rotate(-90deg);
+						-ms-transform: rotate(-90deg);
+						transform: rotate(-90deg);
+					}
+				}
+
+				&:after, &:hover, &.active {
+					color: $gray-800;
+				}
+
+				&:after {
+					content: "\e901";
+					font-family: iconkcc;
+					font-size: 14px;
+					font-weight: normal;
+					color: $gray-800;
+					position: absolute;
+					right: 0;
+					-webkit-transform: rotate(90deg);
+					-moz-transform: rotate(90deg);
+					-ms-transform: rotate(90deg);
+					transform: rotate(90deg);
+					-webkit-transition: transform 200ms;
+					-moz-transition: transform 200ms;
+					-ms-transition: transform 200ms;
+					transition: transform 200ms;
+				}
+
+			}
+			.accordion-content-revise {
+				.wrap {
+					padding-left: 3px;
+					padding-right: 0;
+					ul {
+						margin-top: 20px;
+					}
+				}
+			}
+		}
 	}
 }
+@media screen and (max-width: 767px) {
+	.theme-siamone {
+		.popup-style3 {
+			.accordion-revise {
+				.accordion-title-revise {
+					border-top: 1px solid $gray-250;
+					padding-top: 15px;
+					padding-bottom: 15px;
+				}
+				.accordion-content-revise {
+					.wrap {
+						padding: 0;
+						padding-bottom: 14px;
+
+						ul {
+							margin-top: 0;
+						}
+					}
+				}
+			}
+			
+		}
+	}
+}
+
 @media screen and (max-width: 1023px) {
 	.theme-siamone {
 		.popup-style3 {
@@ -131,10 +219,12 @@
 				display: inline-flex;
         flex-direction: row;
 			}
-			.compn-overflow-revise {				
+			.compn-overflow-revise {
+				overflow-y: scroll;
 
         .compn-overflow-wrapper-revise {
-          display: block;          
+          display: block; 
+					min-height: 42px;         
         }
 				.compn-overflow-scroll-wrapper-revise {
 					margin-top: 10px;
