@@ -210,7 +210,7 @@ $(document).ready(function ($) {
     fixedContentPos: true,
     callbacks: {
       open: function () {
-        console.log('Open magnificPopup');
+        // console.log('Open magnificPopup');
         // Will fire when this exact popup is opened
         // this - is Magnific Popup object
 
@@ -220,7 +220,7 @@ $(document).ready(function ($) {
             ($(this).find('.compn-overflow-wrapper-revise').width() *
               $(this).find('.compn-overflow-wrapper-revise').width()) /
             $(this).find('.compn-revise').width();
-          console.log(width);
+          
           $(this)
             .find('.compn-overflow-scroll-revise')
             .css('width', width + 'px');
@@ -249,12 +249,12 @@ $(document).ready(function ($) {
         });
       },
       resize: function() {
-        console.log('Popup resized');
+        // console.log('Popup resized');
 
         $('.compn-overflow-revise').each(function (e) {
           var compn = $(this).find('.compn-revise');
           var compnWrapper = compn.parent();
-  
+
           if (compn.width() > compnWrapper.width()) {
             $(this).find('.compn-overflow-scroll-wrapper-revise').show();
           } else {

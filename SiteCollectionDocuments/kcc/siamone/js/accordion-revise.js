@@ -6,16 +6,16 @@ $(function () {
         '>.accordion-title-revise:not(".accordion-popup-title")'
       ),
       content = $(accRewise).find(
-        '>.accordion-content:not(".accordion-popup-content")'
+        '>.accordion-content:not(".accordion-content-revise")'
       ),
       popupTitle = $(accRewise).find(
         '>.accordion-title-revise.accordion-popup-title'
       ),
       popupContent = $(accRewise).find(
-        '>.accordion-content.accordion-popup-content'
+        '>.accordion-content-revise'
       );
 
-    if (accRewise.find('.accordion-popup-content').length == 0) {
+    if (accRewise.find('.accordion-content-revise').length == 0) {
       accRewise.addClass('empty');
     }
 
@@ -53,11 +53,11 @@ $(function () {
 });
 
 function clickAccordionPopup(elem, findElem) {
-  if ($(window).outerWidth() <= 768) {
+  // if ($(window).outerWidth() <= 768) {
     if ($(elem).hasClass('active')) {
       $(elem).removeClass('active').parent().find($(findElem)).slideUp(300);
     } else {
       $(elem).toggleClass('active').parent().find($(findElem)).slideDown(300);
     }
-  }
+  // }
 }
