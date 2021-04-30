@@ -17,9 +17,9 @@ const postcss = require('gulp-postcss');
  
 // const gulpCopy = require('gulp-copy');
 // const otherGulpFunction = require('gulp-other-function');
-const baseDir = './SiteCollectionDocuments/kcc/siamone/';
+const baseDir = './SiteCollectionDocuments/kcc/onesiam/';
 const htmlDir = './TH/personal/CreditCard/Pages/';
-const distDir = './SiteCollectionDocuments/kcc/siamone/';
+const distDir = './SiteCollectionDocuments/kcc/onesiam/';
 const distDirHtml = './TH/personal/CreditCard/Pages/';
 // Clean assets
 
@@ -62,7 +62,7 @@ function scss() {
     .pipe(sourcemaps.init())
     .pipe(sass.sync({ outputStyle: 'compressed' }).on('error', sass.logError))
     .pipe(postcss())
-    .pipe(concat('theme-siamone.min.css'))
+    .pipe(concat('theme-onesiam.min.css'))
     .pipe(sourcemaps.write('.'))
     .pipe(dest(distDir + '/dist/'))
     .pipe(browserSync.stream());

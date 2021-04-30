@@ -1,11 +1,11 @@
 {
-  "name": "kbank-kcc-siamone",
+  "name": "kbank-kcc-onesiam",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "gulp watch",
     "prod": "gulp",
-    "build:tailwindcss": "npx tailwindcss-cli@latest build -o ./SiteCollectionDocuments/kcc/siamone/css/tailwind.css"
+    "build:tailwindcss": "npx tailwindcss-cli@latest build -o ./SiteCollectionDocuments/kcc/onesiam/css/tailwind.css"
   },
   "author": "Bluenarysun <tee.emilond@gmail.com>",
   "license": "ISC",
@@ -42,5 +42,5 @@
   "dependencies": {
     "tailwindcss": "^2.0.3"
   },
-  "repository": "https://github.com/IC-WEB/kbank-siamone.git"
+  "repository": "https://github.com/IC-WEB/kbank-onesiam.git"
 }

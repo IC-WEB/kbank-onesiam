@@ -15,7 +15,7 @@
 
   <meta property="og:title" content="บัตรเครดิตกสิกรไทย-ช้อปปี้ - ธนาคารกสิกรไทย">
   <meta property="og:description" content="ขนส่งฟรี, ส่วนลดค่าขนส่ง, Shopee Coins, สมัครฟรี ไม่มีค่าแรกเข้า, สมัครง่ายแค่ใช้บัตรประชาชน, แบ่งจ่าย 0% สูงสุด 10 เดือน, พักผ่อนก่อนบินที่ TG LOUNGE">
-  <meta property="og:image" content="https://www.kasikornbank.com/SiteCollectionDocuments/kcc/siamone/img/og.jpg">
+  <meta property="og:image" content="https://www.kasikornbank.com/SiteCollectionDocuments/kcc/onesiam/img/og.jpg">
   <meta property="og:type" content="website">
   <meta property="og:url" content="">
 
@@ -58,11 +58,11 @@
   <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/css/layout.css">
   <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/css/helper.css">
   
-  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/siamone/dist/styles.min.css">
-  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/siamone/dist/theme-siamone.min.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/onesiam/dist/styles.min.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/onesiam/dist/theme-onesiam.min.css">
 
   <link rel="stylesheet" href="/SiteCollectionDocuments/assets/css/compn-overflower.css">
-  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/siamone/css/override.css">
+  <link rel="stylesheet" href="/SiteCollectionDocuments/kcc/onesiam/css/override.css">
   <!-- End -->
 
   <!-- JS -->
@@ -104,7 +104,7 @@
 
 <body>
 
-  <div id="page" class="icw kcc theme-siamone">
+  <div id="page" class="icw kcc theme-onesiam">
 
     <header class="header-main">
       <!-- Menu Mobile-->
@@ -1092,7 +1092,7 @@
           <div class="sc-floating-apply-m" data-auto-detection="true">
             <div class="container">
               <div class="sc-content">
-                <img src="/SiteCollectionDocuments/kcc/siamone/img/card.png" alt="">
+                <img src="/SiteCollectionDocuments/kcc/onesiam/img/card.png" alt="">
                 <p class="display-7"><strong>บัตรเครดิต<br/>กสิกรไทย-ช้อปปี้</strong></p>
                 <div class="action">
                   <a href="#apply" class="btn btn-gradient link-scroll pxtm-click-floatingApply" title="fixed nav mobile - สมัครบัตร">สมัครบัตร</a>
@@ -1105,22 +1105,22 @@
            
             <section id="product-hero" class="section sc-product-hero product-detail-hl fx-section" data-dl-section="product-hero">
               <div class="image a-center tw-hidden md:tw-block"">
-                <img class="lazy" src="/SiteCollectionDocuments/kcc/siamone/img/hero/banner-desktop.png" alt="">
+                <img class="lazy" src="/SiteCollectionDocuments/kcc/onesiam/img/hero/banner-desktop.png" alt="">
               </div>
               <div class="cards tw-block md:tw-hidden">
                 <div class="card" data-card-index="0">
-                  <img class="lazy" src="/SiteCollectionDocuments/kcc/siamone/img/hero/banner-black.png" alt="">
+                  <img class="lazy" src="/SiteCollectionDocuments/kcc/onesiam/img/hero/banner-black.png" alt="">
                 </div>
                 <div class="card" data-card-index="1">
-                  <img class="lazy" src="/SiteCollectionDocuments/kcc/siamone/img/hero/banner-silver-brown.png" alt="">
+                  <img class="lazy" src="/SiteCollectionDocuments/kcc/onesiam/img/hero/banner-silver-brown.png" alt="">
                 </div>
                 <div class="card" data-card-index="2">
-                  <img class="lazy" src="/SiteCollectionDocuments/kcc/siamone/img/hero/banner-silver-mix.png" alt="">
+                  <img class="lazy" src="/SiteCollectionDocuments/kcc/onesiam/img/hero/banner-silver-mix.png" alt="">
                 </div>
               </div>
               <div class="detail mt-30">
                 <div class="sc-heading a-center no-bt">
-                  <h1 class="">บัตรเครดิตกสิกรไทย - siamone</h1>
+                  <h1 class="">บัตรเครดิตกสิกรไทย - onesiam</h1>
                   <p class="display-6 desc">คืนเยอะ ได้ไว ใช้ให้สุด</p>
                 </div>
               </div>
@@ -1138,9 +1138,9 @@
                       <div class="cardTab__wrap">
 
                         <a href="#" class="cardTab__link tw-block">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/cards/icon-check.png" alt="Icon check"
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/icon-check.png" alt="Icon check"
                           class="cardTab__icon">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/cards/card1-active.png" class="cardTab__img tw-block"
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/card1-active.png" class="cardTab__img tw-block"
                           alt="Card Active 1">
                         </div>
                         <h3 class="cardTab__title">บัตรอินฟินิท</h3>
@@ -1149,9 +1149,9 @@
                     <div class="cardTab__item tw-w-1/3" id="2">
                       <a href="#" class="cardTab__link tw-block">
                         <div class="cardTab__wrap">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/cards/icon-check.png" alt="Icon check"
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/icon-check.png" alt="Icon check"
                             class="cardTab__icon">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/cards/card2-active.png" class="cardTab__img tw-block"
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/card2-active.png" class="cardTab__img tw-block"
                             alt="Card Active 2">
                         </div>
                         <h3 class="cardTab__title">บัตรซิกเนเจอร์</h3>
@@ -1161,9 +1161,9 @@
                       <a href="#" class="cardTab__link tw-block">
                         <div class="cardTab__wrap">
 
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/cards/icon-check.png" alt="Icon check"
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/icon-check.png" alt="Icon check"
                         class="cardTab__icon active">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/cards/card3-active.png" class="cardTab__img w-block"
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/cards/card3-active.png" class="cardTab__img w-block"
                         alt="Card Active 3">
                       </div>
                       <h3 class="cardTab__title">บัตรแพลทินัม</h3>
@@ -1175,7 +1175,7 @@
                   <div class="cards cardWrap cardWrap-1">
                     <div class="card">
                       <div class="image">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/1.jpg" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/1.jpg" alt="">
                       </div>
                       <div class="caption">
                         <h3 class="title">รับทั้ง KBank Reward Points & Shopee Coins</h3>
@@ -1191,7 +1191,7 @@
                   
                     <div class="card">
                       <div class="image">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/2.jpg" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/2.jpg" alt="">
                       </div>
                       <div class="caption">
                         <h3 class="title">รับ Shopee Coins สูงสุด 999 Coins</h3>
@@ -1204,7 +1204,7 @@
                     
                     <div class="card">
                       <div class="image">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/3.jpg" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                       </div>
                       <div class="caption">
                         <h3 class="title">ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1217,7 +1217,7 @@
                     
                     <div class="card">
                       <div class="image">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/3.jpg" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                       </div>
                       <div class="caption">
                         <h3 class="title">ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1230,7 +1230,7 @@
                     
                     <div class="card">
                       <div class="image">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/3.jpg" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                       </div>
                       <div class="caption">
                         <h3 class="title">ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1245,7 +1245,7 @@
                     <div class="cards cardWrap cardWrap-2">
                       <div class="card">
                         <div class="image">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/1.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/1.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#2 รับทั้ง KBank Reward Points & Shopee Coins</h3>
@@ -1261,7 +1261,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/2.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/2.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#2 รับ Shopee Coins สูงสุด 999 Coins</h3>
@@ -1275,7 +1275,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#2 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1288,7 +1288,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#2 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1301,7 +1301,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#2 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1317,7 +1317,7 @@
                     <div class="cards cardWrap cardWrap-3 cardWrap--active">
                       <div class="card">
                         <div class="image">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/1.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/1.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#3 รับทั้ง KBank Reward Points & Shopee Coins</h3>
@@ -1333,7 +1333,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/2.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/2.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#3 รับ Shopee Coins สูงสุด 999 Coins</h3>
@@ -1347,7 +1347,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#3 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1360,7 +1360,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#3 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1373,7 +1373,7 @@
                     
                       <div class="card">
                         <div class="image">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/carousel/3.jpg" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/carousel/3.jpg" alt="">
                         </div>
                         <div class="caption">
                           <h3 class="title">#3 ช้อปสนุก รับเพิ่ม 1% Shopee Coin</h3>
@@ -1752,13 +1752,13 @@
                   <div class="cards sc-bg-blue-gradient">
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/1.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/1.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">K PLUS Service</h2>
                         <p class="display-4 c-white"><strong>เปิดใช้บริการบัตรเครดิต</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/1.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/1.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/add-credit-card.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม K PLUS Service">รายละเอียดเพิ่มเติม</a>
@@ -1769,13 +1769,13 @@
 
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/2.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/2.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">Bill Payment</h2>
                         <p class="display-4 c-white"><strong>ตรวจสอบยอดใช้จ่ายบัตรเครดิต</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/2.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/2.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/detail-credit-card.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม Bill Payment">รายละเอียดเพิ่มเติม</a>
@@ -1786,13 +1786,13 @@
 
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/3.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/3.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">K Statements</h2>
                         <p class="display-4 c-white"><strong>ตรวจสอบใบแจ้งยอดบัญชีบัตรเครดิต</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/3.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/3.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/Statement.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม K Statements">รายละเอียดเพิ่มเติม</a>
@@ -1803,13 +1803,13 @@
 
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/4.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/4.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">Change Limit</h2>
                         <p class="display-4 c-white"><strong>ขอเพิ่มวงเงินชั่วคราว</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/4.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/4.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/Change-Limit.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม Change Limit">รายละเอียดเพิ่มเติม</a>
@@ -1820,13 +1820,13 @@
 
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/5.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/5.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">Smart Pay by K PLUS</h2>
                         <p class="display-4 c-white"><strong>บริการแบ่งจ่ายรายเดือน</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/5.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/5.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/Installment-payment.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม Smart Pay by K PLUS">รายละเอียดเพิ่มเติม</a>
@@ -1837,13 +1837,13 @@
 
                     <div class="card">
                       <div class="img-slot hidden-w767">
-                        <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/6.png" alt="">
+                        <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/6.png" alt="">
                       </div>
                       <div class="caption">
                         <h2 class="c-green">Smart Cash by K PLUS</h2>
                         <p class="display-4 c-white"><strong>บริการเงินด่วน</strong></p>
                         <div class="img-slot visible-w767">
-                          <img src="/SiteCollectionDocuments/kcc/siamone/img/kplus-services/6.png" alt="">
+                          <img src="/SiteCollectionDocuments/kcc/onesiam/img/kplus-services/6.png" alt="">
                         </div>
                         <div class="action">
                           <a href="https://www.kasikornbank.com/th/personal/digital-banking/kplus/functions/credit-card/Pages/Quick-Money.html" target="_blank" class="link more pxtm-click-linkClick" title="รายละเอียดเพิ่มเติม Smart Cash by K PLUS">รายละเอียดเพิ่มเติม</a>
@@ -1897,7 +1897,7 @@
                       <div class="accordion-title pxtm-click-toggleDetail">Shopee Username ดูตรงไหน ?</div>
                       <div class="accordion-content">
                         <div class="wrap">
-                          <a href="/SiteCollectionDocuments/kcc/siamone/img/faqs/KBankShopee-A4_CO.jpg"
+                          <a href="/SiteCollectionDocuments/kcc/onesiam/img/faqs/KBankShopee-A4_CO.jpg"
                             class="link external open-popup-image pxtm-click-openPopup" title="faqs - วิธีการดู Shopee Username">วิธีการดู Shopee
                             Username</a>
                         </div>
@@ -2185,7 +2185,7 @@
     </footer>
     
     <!-- Popup - START -->
-    <div id="popup-k-smartpay" class="mfp-hide theme-siamone white-popup-block">
+    <div id="popup-k-smartpay" class="mfp-hide theme-onesiam white-popup-block">
       <div class="content">
         <h4 class="h3">KBank Smart PAY แบ่งจ่ายดอกเบี้ย 0%</h4>
         <p><strong>เงื่อนไขการแบ่งจ่าย K-SmartPay ด้วยบัตรเครดิตกสิกรไทยการใช้บัตรเครดิตแทนการชำระเงินสด เพื่อชำระค่าสินค้า/บริการ แบบผ่อนชำระเป็นงวดๆ ผู้ถือบัตรตกลงดังนี้</strong></p>
@@ -2202,7 +2202,7 @@
       <a class="popup-modal-dismiss" href="#"><i class="ic ic-close"></i></a>
     </div>
     
-    <div id="popup-k-smartpay-by-phone" class="mfp-hide theme-siamone white-popup-block">
+    <div id="popup-k-smartpay-by-phone" class="mfp-hide theme-onesiam white-popup-block">
       <div class="content">
         <h4 class="h3">KBank Smart PAY แบ่งจ่ายดอกเบี้ย 0.65% เลือกได้ไม่ต้องรอโปร</h4>
         <h5 class="h4">4 ขั้นตอนง่ายๆ</h5>
@@ -2263,7 +2263,7 @@
       <a class="popup-modal-dismiss" href="#"><i class="ic ic-close"></i></a>
     </div>
     
-    <div id="popup-shop-online" class="mfp-hide theme-siamone white-popup-block">
+    <div id="popup-shop-online" class="mfp-hide theme-onesiam white-popup-block">
       <div class="content">
         <h4 class="h3">ช้อปปิ้งออนไลน์อย่างปลอดภัย</h3>
         <p><strong>Verified by Visa,MasterCard SecureCode, J/Secure เป็นระบบการยืนยันตัวตนที่ป้องกันโดยรหัสผ่าน ซึ่งออกแบบมาเพื่อยืนยันตัวตนของผู้ถือบัตรเมื่อใช้บัตรเครดิตทางออนไลน์</strong></p>
@@ -2292,7 +2292,7 @@
       <a class="popup-modal-dismiss" href="#"><i class="ic ic-close"></i></a>
     </div>
     
-    <div id="popup-kplus-service" class="mfp-hide theme-siamone white-popup-block">
+    <div id="popup-kplus-service" class="mfp-hide theme-onesiam white-popup-block">
       <div class="content">
         <h4 class="h3">K PLUS Service ทุกเรื่องบัตรเครดิตจัดการได้เองง่ายๆ</h4>
         <p class="mt-20"><strong>ลงทะเบียน</strong></p>
@@ -2319,7 +2319,7 @@
       <a class="popup-modal-dismiss" href="#"><i class="ic ic-close"></i></a>
     </div>
     
-    <div id="popup-paywave" class="mfp-hide theme-siamone white-popup-block">
+    <div id="popup-paywave" class="mfp-hide theme-onesiam white-popup-block">
       <div class="content">
         <h4 class="h3">การชำระสินค้าด้วย payWave</h4>
         <p class="mt-20">สามารถใช้บัตรได้ ณ ร้านค้าที่มีสัญลักษณ์ payWave</p>
@@ -2400,14 +2400,14 @@
   <!-- JS Plugin - END -->
   
   <!-- JS Page - START -->
-  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/siamone/js/anchor.js"></script> -->
-  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/siamone/js/yt-embed.js"></script> -->
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/js/anchor.js"></script> -->
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/js/yt-embed.js"></script> -->
   
   <!-- <script type="text/javascript" src="/SiteCollectionDocuments/assets/js/garage/component-overflower.js"></script> -->
-  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/siamone/js/app-detail-renderer.js"></script> -->
-  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/siamone/js/shopee.js"></script> -->
-  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/siamone/js/theme-original.js"></script> -->
-  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/siamone/dist/bundle.min.js"></script>
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/js/app-detail-renderer.js"></script> -->
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/js/shopee.js"></script> -->
+  <!-- <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/js/theme-original.js"></script> -->
+  <script type="text/javascript" src="/SiteCollectionDocuments/kcc/onesiam/dist/bundle.min.js"></script>
 
   <!-- JS Page - END -->
   

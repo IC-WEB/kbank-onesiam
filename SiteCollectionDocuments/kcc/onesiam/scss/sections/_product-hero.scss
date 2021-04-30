@@ -1,4 +1,4 @@
-.theme-siamone .sc-product-hero {
+.theme-onesiam .sc-product-hero {
   position: relative;
   margin-top: 30px;
 
@@ -10,7 +10,7 @@
     height: 75%;
     bottom: 0;
     left: 0;
-    background: url(/SiteCollectionDocuments/kcc/siamone/img/hero/bg-left.png), url(/SiteCollectionDocuments/kcc/siamone/img/hero/bg-right.png), white;
+    background: url(/SiteCollectionDocuments/kcc/onesiam/img/hero/bg-left.png), url(/SiteCollectionDocuments/kcc/onesiam/img/hero/bg-right.png), white;
     background-repeat: no-repeat;
     background-size: auto 100%;
     background-position: center left, center right;
@@ -44,9 +44,9 @@
 }
 
 @media screen and (max-width: 767px) {
-  .theme-siamone .sc-product-hero {
+  .theme-onesiam .sc-product-hero {
     &:before {
-      background: url(/SiteCollectionDocuments/kcc/siamone/img/hero/bg-left-mobile.png), url(/SiteCollectionDocuments/kcc/siamone/img/hero/bg-right-mobile.png), white;
+      background: url(/SiteCollectionDocuments/kcc/onesiam/img/hero/bg-left-mobile.png), url(/SiteCollectionDocuments/kcc/onesiam/img/hero/bg-right-mobile.png), white;
       background-repeat: no-repeat;
       background-size: 160px;
       background-position: bottom left, bottom right;

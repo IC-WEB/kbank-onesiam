@@ -39,7 +39,7 @@ function setCardHeight() {
 document.querySelector('main').classList.add('loading');
 
 $(document).ready(function ($) {
-  $('#page').addClass('theme-siamone');
+  $('#page').addClass('theme-onesiam');
 
   try {
     $('.sc-product-hero .cards').slick({
@@ -205,7 +205,7 @@ $(document).ready(function ($) {
   // popup
   $('.toggle-popup').magnificPopup({
     type: 'inline',
-    mainClass: 'kcc theme-siamone',
+    mainClass: 'kcc theme-onesiam',
     autoFocusLast: false,
     fixedContentPos: true,
     callbacks: {
